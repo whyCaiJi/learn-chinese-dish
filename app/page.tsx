@@ -39,6 +39,21 @@ export default function Home() {
             <h2 className="font-semibold text-stone-800 text-lg mb-1">{T.suggest}</h2>
             <p className="text-stone-500 text-sm">{T.suggestDesc}</p>
           </Link>
+
+          <Link
+            href="/wiki"
+            className="group bg-white rounded-2xl p-6 shadow-sm border border-stone-100 hover:border-orange-300 hover:shadow-md transition-all sm:col-span-2"
+          >
+            <div className="text-3xl mb-3">🔬</div>
+            <h2 className="font-semibold text-stone-800 text-lg mb-1">
+              {lang === "zh" ? "烹饪原理 Wiki" : "Cooking Science Wiki"}
+            </h2>
+            <p className="text-stone-500 text-sm">
+              {lang === "zh"
+                ? "去腥公式、味型比例、油温判断、炝锅原理……系统学习中餐底层逻辑"
+                : "Deodorizing formulas, flavor ratios, oil temperature, wok techniques — the underlying logic of Chinese cooking"}
+            </p>
+          </Link>
         </div>
       </section>
 

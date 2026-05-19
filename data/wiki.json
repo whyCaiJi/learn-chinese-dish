@@ -1,0 +1,485 @@
+[
+  {
+    "id": "quuxing",
+    "icon": "🐟",
+    "title": "去腥全攻略",
+    "title_en": "Eliminating Gamey Odors",
+    "category": "前处理",
+    "category_en": "Prep",
+    "summary": "为什么肉会腥，四种去腥方法及适用场景，不同肉类的最优方案。",
+    "summary_en": "Why meat smells gamey, four deodorizing methods, and which to use for each protein.",
+    "sections": [
+      {
+        "type": "text",
+        "title": "腥味从哪里来",
+        "title_en": "Where Does the Gamey Smell Come From?",
+        "content": "肉类的腥膻味来源于几类物质：\n\n**三甲胺（TMA）**：鱼腥味的主要来源，由氧化三甲胺（TMAO）在细菌作用下分解产生，碱性条件下挥发性更强，酸（醋、柠檬汁）能中和它。\n\n**肌红蛋白与血液**：红色的血水和肌红蛋白带有金属腥味，焯水可以使其凝固析出。\n\n**脂肪氧化产物**：不饱和脂肪酸氧化产生醛类物质，是猪牛羊肉膻味的来源之一，高温可使其挥发。\n\n**硫化物**：鸡肉皮下脂肪中含有，是鸡腥味来源。\n\n了解来源才能对症处理——每种去腥方法针对的是不同的腥味物质。",
+        "content_en": "Gamey smells in meat come from several compound families:\n\n**Trimethylamine (TMA)**: The primary source of fishy smell. Produced when bacteria break down TMAO (trimethylamine oxide). It's more volatile in alkaline conditions — acid (vinegar, lemon juice) neutralizes it directly.\n\n**Myoglobin and blood**: The red liquid that comes out of meat carries a metallic, bloody odor. Blanching causes these proteins to coagulate and leach out.\n\n**Oxidized fat byproducts**: Unsaturated fatty acids oxidize into aldehydes, contributing to the characteristic smell of pork, beef, and lamb. High heat helps volatilize these.\n\n**Sulfur compounds**: Found in the fat beneath chicken skin — the main source of chicken's distinct smell.\n\nKnowing the source tells you which method to use. Each deodorizing technique targets a different compound."
+      },
+      {
+        "type": "formula",
+        "title": "方法一：焯水法（去血水、蛋白腥）",
+        "title_en": "Method 1: Blanching (removes blood & protein odors)",
+        "content": "【万能焯水公式】\n\n冷水下锅 + 料酒（10ml/500g肉）+ 姜片3-4片\n↓\n大火烧开，撇净灰白浮沫\n↓\n煮2-3分钟后捞出，温水冲洗（不用冷水）\n\n⚠️ 关键：\n• 必须冷水下锅：热水封住表面，血水出不来\n• 温水冲洗：冷水激会使肉质收紧变柴\n• 浮沫撇净再计时：浮沫是腥味物质，必须完全去除",
+        "content_en": "【Universal Blanching Formula】\n\nStart in cold water + Shaoxing wine (10ml per 500g) + 3–4 ginger slices\n↓\nBring to a boil over high heat, skim all grey-white foam\n↓\nCook 2–3 minutes, remove, rinse with warm water (not cold)\n\n⚠️ Critical points:\n• Always start cold: hot water seals the surface, trapping the blood inside\n• Rinse with warm water: cold water shocks the muscle, making it tough\n• Skim completely before timing: the foam IS the odor compounds — don't skip this"
+      },
+      {
+        "type": "formula",
+        "title": "方法二：料酒腌制法（去挥发性腥味）",
+        "title_en": "Method 2: Wine Marinade (removes volatile odors)",
+        "content": "【万能腌制去腥公式】\n\n料酒（10ml/500g）+ 姜片/姜末 + 盐（2g/500g）\n腌制时间：10-15分钟（肉丝/片）/ 30分钟（大块）\n\n原理：酒精能溶解部分脂溶性腥味物质，加热时连同乙醇一起挥发。姜中的姜辣素能与腥味物质发生反应，起掩盖和中和作用。\n\n✅ 适用：炒菜类肉丝/肉片（不需要焯水的场景）\n❌ 不适用：血水多的大块肉（需要焯水处理）",
+        "content_en": "【Universal Wine Marinade Formula】\n\nShaoxing wine (10ml/500g) + ginger slices or minced + salt (2g/500g)\nMarinating time: 10–15 min (strips/slices) / 30 min (large pieces)\n\nHow it works: Alcohol dissolves fat-soluble odor compounds; both evaporate together during cooking. Gingerols in ginger react with and mask remaining odor molecules.\n\n✅ Use for: Stir-fry strips and slices (when blanching isn't needed)\n❌ Not for: Large, bloody cuts (those need blanching first)"
+      },
+      {
+        "type": "formula",
+        "title": "方法三：盐水浸泡（去血水，适合禽肉）",
+        "title_en": "Method 3: Salt Water Soak (draws out blood, best for poultry)",
+        "content": "【盐水浸泡公式】\n\n清水 + 盐（1%浓度，即10g盐/1L水）\n浸泡时间：20-30分钟，冷藏进行\n泡完用清水冲洗干净\n\n原理：渗透压差使肌肉细胞中的血水和腥味物质向外渗出。低温（冷藏）防止细菌繁殖。\n\n✅ 最适合：鸡肉、猪里脊等淡色肉\n❌ 不适合：鱼类（会使鱼肉变性变硬）",
+        "content_en": "【Salt Soak Formula】\n\nWater + salt (1% solution = 10g salt per 1L water)\nSoak time: 20–30 minutes, refrigerated\nRinse thoroughly with clean water afterward\n\nHow it works: The osmotic pressure difference draws blood and odor compounds out of the muscle cells. Refrigeration prevents bacterial growth during the soak.\n\n✅ Best for: Chicken, pork tenderloin, and other pale meats\n❌ Not for: Fish (denatures the protein and makes it rubbery)"
+      },
+      {
+        "type": "formula",
+        "title": "方法四：牛奶浸泡（去强烈腥膻，适合肝脏/羊肉）",
+        "title_en": "Method 4: Milk Soak (heavy-duty, for liver and strong-flavored meats)",
+        "content": "【牛奶浸泡公式】\n\n全脂牛奶（没过食材即可）\n浸泡时间：30-60分钟，冷藏\n取出后用清水冲洗，按常规腌制\n\n原理：牛奶中的酪蛋白能与腥味化合物（尤其是三甲胺类）结合，将其从肉中提取出来。同时牛奶轻微的乳酸酸性能中和碱性腥味物质。\n\n✅ 最适合：猪/牛肝、腰子、羊肉\n💡 经济替代：淡盐水（1.5%浓度）浸泡效果接近",
+        "content_en": "【Milk Soak Formula】\n\nWhole milk (enough to submerge)\nSoak time: 30–60 minutes, refrigerated\nRinse with cold water, then marinate normally\n\nHow it works: Casein proteins in milk bind to odor compounds (especially TMA-type molecules) and draw them out of the meat. The mild lactic acid in milk also neutralizes alkaline odor compounds.\n\n✅ Best for: Pork/beef liver, kidney, lamb\n💡 Budget substitute: 1.5% salt water achieves a similar result"
+      },
+      {
+        "type": "table",
+        "title": "不同肉类的推荐方案",
+        "title_en": "Which Method for Which Meat",
+        "headers": [
+          { "zh": "肉类", "en": "Protein" },
+          { "zh": "推荐方法", "en": "Best Method" },
+          { "zh": "备注", "en": "Notes" }
+        ],
+        "rows": [
+          { "col1": "猪肉（大块红烧）", "col1_en": "Pork belly / ribs", "col2": "焯水法", "col2_en": "Blanching", "col3": "冷水起，撇净浮沫", "col3_en": "Start cold, skim foam fully" },
+          { "col1": "猪肉（炒菜）", "col1_en": "Pork (stir-fry)", "col2": "料酒腌制", "col2_en": "Wine marinade", "col3": "无需焯水", "col3_en": "No blanching needed" },
+          { "col1": "鸡肉", "col1_en": "Chicken", "col2": "盐水浸泡或焯水", "col2_en": "Salt soak or blanching", "col3": "整鸡或大块焯水", "col3_en": "Blanch whole/large pieces" },
+          { "col1": "鱼", "col1_en": "Fish", "col2": "料酒+姜腌制", "col2_en": "Wine + ginger marinade", "col3": "鱼肚黑膜必须刮净", "col3_en": "Scrape black belly membrane" },
+          { "col1": "牛羊肉", "col1_en": "Beef / lamb", "col2": "焯水+料酒腌制", "col2_en": "Blanch + wine marinade", "col3": "羊肉可额外用孜然", "col3_en": "Add cumin for lamb" },
+          { "col1": "猪肝/腰子", "col1_en": "Liver / kidney", "col2": "牛奶浸泡", "col2_en": "Milk soak", "col3": "腥味最重，需最强手段", "col3_en": "Strongest odors, need heavy-duty method" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shangjang",
+    "icon": "🥩",
+    "title": "上浆腌制公式",
+    "title_en": "Velveting & Marinating",
+    "category": "前处理",
+    "category_en": "Prep",
+    "summary": "上浆让肉嫩滑的原理，不同蛋白质的腌制比例，以及小苏打的正确用法。",
+    "summary_en": "Why velveting works, marinating ratios for different proteins, and the correct use of baking soda.",
+    "sections": [
+      {
+        "type": "text",
+        "title": "上浆为什么能让肉嫩滑",
+        "title_en": "Why Velveting Works",
+        "content": "上浆（也叫挂糊/码味）是中餐保持肉类嫩度的核心技法，原理分三层：\n\n**物理保护层**：淀粉糊化后在肉的表面形成半透明的薄膜，这层膜阻止高温直接接触肉的蛋白质，减缓水分蒸发速度。\n\n**蛋白质缓冲**：蛋清（或水）中的蛋白质在加热时先于肉的蛋白质凝固，进一步形成隔热层，使内部受热更均匀。\n\n**保水性**：淀粉吸水膨胀后锁住肉中的自由水，使最终口感更多汁。没有上浆的肉下锅后蛋白质迅速收缩，自由水大量流失，就变老变柴。",
+        "content_en": "Velveting (also called 'coating' or 'marinating with starch') is Chinese cooking's core technique for keeping meat tender. It works on three levels:\n\n**Physical barrier**: Gelatinized starch forms a semi-transparent film on the meat's surface, slowing direct heat contact with the muscle proteins and reducing moisture evaporation.\n\n**Protein buffer**: Egg white (or water) proteins set at a lower temperature than meat proteins, forming an insulating layer that moderates heat transfer to the interior.\n\n**Water retention**: Swollen starch granules physically trap free water in the meat, keeping it juicier. Without velveting, muscle proteins contract rapidly under high heat and expel most of their water — the result is dry, tough meat."
+      },
+      {
+        "type": "formula",
+        "title": "万能上浆公式（每100g蛋白质）",
+        "title_en": "Universal Velveting Formula (per 100g protein)",
+        "content": "【基础公式】\n淀粉 5-8g + 料酒 5ml + 盐 1-2g + 水/蛋清 适量\n\n淀粉与水（或蛋清）的比例约 1:1.5\n抓匀后静置10分钟，下锅前加几滴油防粘\n\n【判断标准】\n✅ 正确：肉表面有光泽薄浆，摸起来滑而不流\n❌ 太稀：浆往下流，下锅会脱浆\n❌ 太稠：下锅后变成厚糊，口感像裹面包粉",
+        "content_en": "【Base Formula】\nCornstarch 5–8g + Shaoxing wine 5ml + salt 1–2g + water or egg white to bind\n\nStarch-to-liquid ratio: roughly 1:1.5\nMix well and rest 10 minutes; add a few drops of oil before cooking to prevent sticking\n\n【How to Check】\n✅ Correct: Meat has a glossy, thin coating that's slippery but doesn't drip\n❌ Too thin: Batter runs off — will peel in the wok\n❌ Too thick: Forms a heavy crust like breadcrumbs"
+      },
+      {
+        "type": "table",
+        "title": "不同蛋白质的上浆方案",
+        "title_en": "Velveting by Protein Type",
+        "headers": [
+          { "zh": "食材", "en": "Protein" },
+          { "zh": "配方要点", "en": "Key Formula" },
+          { "zh": "特殊说明", "en": "Notes" }
+        ],
+        "rows": [
+          { "col1": "猪肉丝/片", "col1_en": "Pork strips/slices", "col2": "淀粉5g + 料酒 + 盐 + 少量水", "col2_en": "5g starch + wine + salt + a little water", "col3": "无需蛋清，简单易操作", "col3_en": "No egg white needed" },
+          { "col1": "鸡肉", "col1_en": "Chicken", "col2": "淀粉6g + 蛋清半个 + 料酒 + 盐", "col2_en": "6g starch + ½ egg white + wine + salt", "col3": "蛋清让鸡肉更嫩滑", "col3_en": "Egg white adds silkiness" },
+          { "col1": "牛肉", "col1_en": "Beef", "col2": "淀粉8g + 小苏打0.5g + 生抽 + 料酒 + 油", "col2_en": "8g starch + 0.5g baking soda + soy + wine + oil", "col3": "小苏打是关键，见下方说明", "col3_en": "Baking soda is key — see below" },
+          { "col1": "鱼片", "col1_en": "Fish fillets", "col2": "蛋清1个 + 淀粉8g + 盐 + 料酒", "col2_en": "1 egg white + 8g starch + salt + wine", "col3": "鱼片脆嫩，腌制时间最短（10分钟）", "col3_en": "Delicate — marinate only 10 min" },
+          { "col1": "虾", "col1_en": "Shrimp", "col2": "先盐+淀粉抓洗冲净去黏液，再蛋清+淀粉上浆", "col2_en": "First: scrub with salt+starch then rinse; then: egg white + starch", "col3": "去黏液这步必须做，否则腥", "col3_en": "Removing slime is non-optional" }
+        ]
+      },
+      {
+        "type": "formula",
+        "title": "牛肉嫩化的秘密：小苏打法",
+        "title_en": "The Baking Soda Trick for Tender Beef",
+        "content": "【牛肉嫩化公式】\n\n小苏打（碳酸氢钠）：每100g牛肉加0.3-0.5g\n加入方式：与其他腌料一起加\n静置时间：15-30分钟（不超过1小时，否则肉质发软起沙）\n\n原理：碱性环境（pH升高）使肌肉蛋白质结构松散，肌丝间空间增大，持水能力提升，加热后收缩幅度更小。这是餐厅级牛肉嫩滑的核心秘密。\n\n⚠️ 注意：小苏打过多会有肥皂味，过量会破坏口感，严格控制在0.5g以内。",
+        "content_en": "【Baking Soda Tenderizing Formula】\n\nBaking soda (sodium bicarbonate): 0.3–0.5g per 100g beef\nAdd along with all other marinade ingredients\nRest time: 15–30 minutes (don't exceed 1 hour — over-treatment turns the texture mushy)\n\nHow it works: The alkaline environment (raised pH) loosens the myofibril protein structure, increasing inter-filament spacing and dramatically improving water retention. Under heat, the muscle contracts less and stays juicier. This is the core secret behind restaurant-quality tender beef.\n\n⚠️ Warning: Too much baking soda gives the beef a soapy flavor. Keep strictly under 0.5g per 100g."
+      }
+    ]
+  },
+  {
+    "id": "weixing",
+    "icon": "🧪",
+    "title": "中餐味型公式",
+    "title_en": "Chinese Flavor Profile Formulas",
+    "category": "调味",
+    "category_en": "Seasoning",
+    "summary": "七种核心味型的调味比例公式，记住这些就能举一反三。",
+    "summary_en": "Ratio formulas for China's seven core flavor profiles — master these and you can improvise any dish.",
+    "sections": [
+      {
+        "type": "text",
+        "title": "味型的概念",
+        "title_en": "What Is a Flavor Profile?",
+        "content": "中餐将复合调味归纳为「味型」——每种味型是特定调味品按特定比例组合后产生的固定风味。味型不是指某一道菜，而是指一类菜的调味框架。\n\n掌握味型的意义在于：不必死记每道菜的用量，只要记住框架比例，就能变化出无数菜肴。同一种鱼香味型，可以做鱼香肉丝、鱼香茄子、鱼香蛋，道理完全相同。",
+        "content_en": "Chinese cooking categorizes compound seasonings into 'flavor profiles' (味型) — each profile is a fixed flavor produced by combining specific seasonings in specific ratios. A flavor profile isn't a dish; it's the framework behind a category of dishes.\n\nThe value of learning profiles: instead of memorizing every dish's exact quantities, you learn the ratios and can apply them to anything. The same yu xiang (fish-fragrant) profile works for shredded pork, eggplant, or eggs — the principle is identical."
+      },
+      {
+        "type": "formula",
+        "title": "咸鲜味——百搭底味",
+        "title_en": "Savory (Xián Xiān) — The Universal Base",
+        "content": "【公式】生抽 3 : 糖 0.5 : 盐适量\n\n• 糖不是为了「甜」，而是提鲜——微量糖能激活味蕾对咸味的感知\n• 几乎所有中餐炒菜的底味都是咸鲜味\n• 变体：加蚝油（生抽:蚝油 = 1:1）鲜味更突出",
+        "content_en": "【Formula】Light soy sauce 3 : Sugar 0.5 : Salt to taste\n\n• The sugar isn't for sweetness — it's a flavor enhancer. Trace sugar amplifies the perception of saltiness\n• This is the base flavor of almost all Chinese stir-fries\n• Variation: add oyster sauce (soy sauce:oyster sauce = 1:1) for more umami depth"
+      },
+      {
+        "type": "formula",
+        "title": "糖醋味——甜多于酸",
+        "title_en": "Sweet & Sour (Táng Cù) — Sweet-Forward",
+        "content": "【公式】糖 3 : 醋 2.5 : 生抽 1 : 番茄酱 1（可选）\n\n代表菜：糖醋里脊、糖醋排骨、糖醋鱼\n\n特征：甜味突出，酸味为辅，不辣\n关键：醋用陈醋（酸香柔和），不用白醋（太尖锐）\n番茄酱作用：增色、增加果香，非必须但能让成品更好看",
+        "content_en": "【Formula】Sugar 3 : Vinegar 2.5 : Light soy 1 : Tomato paste 1 (optional)\n\nRepresentative dishes: Sweet & sour pork, sweet & sour ribs, whole sweet & sour fish\n\nCharacter: Sweet-dominant, sour as counterpoint, no spice\nKey: Use aged black vinegar (soft sourness), not white vinegar (too sharp)\nTomato paste: adds color and fruity depth — not essential but improves appearance"
+      },
+      {
+        "type": "formula",
+        "title": "荔枝味——酸多于甜（宫保系列）",
+        "title_en": "Lychee Spice (Lì Zhī) — Sour-Forward (Kung Pao family)",
+        "content": "【公式】醋 4 : 糖 3 : 生抽 2 : 老抽 0.5\n\n代表菜：宫保鸡丁、荔枝腰块\n\n特征：酸感突出（先酸后甜），带辣，清爽不腻\n与糖醋的区别：糖>醋=糖醋味，醋>糖=荔枝味\n辣的来源：干辣椒炝锅，而非在酱汁里加辣",
+        "content_en": "【Formula】Vinegar 4 : Sugar 3 : Light soy 2 : Dark soy 0.5\n\nRepresentative dishes: Kung Pao chicken, lychee-style kidneys\n\nCharacter: Sour-dominant (sour hits first, sweet follows), mildly spicy, bright and clean\nDifference from sweet & sour: Sugar > vinegar = sweet & sour; Vinegar > sugar = lychee spice\nHeat source: From dry-frying chili peppers, not from the sauce itself"
+      },
+      {
+        "type": "formula",
+        "title": "鱼香味——咸甜酸辣等量",
+        "title_en": "Fish-Fragrant (Yú Xiāng) — All Four in Balance",
+        "content": "【公式】豆瓣酱 + 生抽 + 醋 + 糖（四者用量相近，无明显主次）\n比例参考：豆瓣20g : 生抽15ml : 醋15ml : 糖12g\n配合：姜蒜末爆香，葱花收尾\n\n代表菜：鱼香肉丝、鱼香茄子、鱼香虾球\n\n特征：咸、甜、酸、辣四种味道同时存在，没有一种突出\n正宗版应用泡辣椒（带发酵酸味），家常版用豆瓣酱替代",
+        "content_en": "【Formula】Doubanjiang + light soy + vinegar + sugar (all roughly equal — no dominant note)\nReference ratio: doubanjiang 20g : soy 15ml : vinegar 15ml : sugar 12g\nPaired with: ginger and garlic fried first, scallions added at end\n\nRepresentative dishes: Yu xiang shredded pork, yu xiang eggplant, yu xiang shrimp\n\nCharacter: Salty, sweet, sour, and spicy all present simultaneously — no single flavor dominates\nAuthentic version uses pickled chilies (adds fermented sourness); home version uses doubanjiang"
+      },
+      {
+        "type": "formula",
+        "title": "红烧味——咸甜鲜，重色泽",
+        "title_en": "Red-Braised (Hóng Shāo) — Savory Sweet, Deep Color",
+        "content": "【公式】生抽 3 : 老抽 1 : 料酒 2 : 糖 1\n（每500g肉参考：生抽30ml, 老抽10ml, 料酒20ml, 糖10g）\n\n代表菜：红烧肉、红烧鱼、红烧豆腐\n\n颜色来源：糖色（炒糖色上色）+ 老抽（补色）\n糖的作用：不只是甜味，而是平衡酱油的咸涩，使味道圆润\n料酒作用：去腥+增香，加热后乙醇挥发，留下发酵香气",
+        "content_en": "【Formula】Light soy 3 : Dark soy 1 : Shaoxing wine 2 : Sugar 1\n(Per 500g meat: soy 30ml, dark soy 10ml, wine 20ml, sugar 10g)\n\nRepresentative dishes: Red-braised pork belly, braised fish, braised tofu\n\nColor sources: Caramelized sugar (primary) + dark soy sauce (supplementary)\nRole of sugar: Not just sweetness — it rounds the harsh saltiness of soy sauce and creates a fuller, rounder flavor\nRole of Shaoxing wine: Deodorize + add depth. Ethanol evaporates during cooking, leaving behind complex fermented aromatics"
+      },
+      {
+        "type": "formula",
+        "title": "麻辣味——麻与辣的平衡",
+        "title_en": "Numbing-Spicy (Má Là) — Balancing Numbness and Heat",
+        "content": "【公式】豆瓣酱（辣）+ 花椒（麻）+ 盐\n炒制顺序：先炝锅出红油 → 再放花椒 → 再加汤汁\n\n代表菜：麻婆豆腐、水煮鱼、夫妻肺片\n\n麻：花椒（四川青花椒更香，红花椒更麻）\n辣：郫县豆瓣酱（辣而香），或干辣椒（纯辣）\n\n调节麻辣比：\n• 麻>辣：增加花椒用量，减少辣椒\n• 辣>麻：增加辣椒，减少花椒\n• 不麻只辣：去掉花椒，保留辣椒",
+        "content_en": "【Formula】Doubanjiang (heat) + Sichuan peppercorns (numbness) + salt\nCooking order: Fry aromatics to extract red oil → add peppercorns → add liquid\n\nRepresentative dishes: Mapo tofu, boiled fish, husband-and-wife beef slices\n\nNumbness: Sichuan peppercorns (green Sichuan pepper = more aromatic; red = more numbing)\nHeat: Pixian doubanjiang (spicy with complexity) or dried chilies (pure heat)\n\nAdjusting the balance:\n• More numbing than spicy: increase peppercorns, reduce chilies\n• More spicy than numbing: increase chilies, reduce peppercorns\n• Spicy but not numbing: remove peppercorns entirely, keep chilies"
+      },
+      {
+        "type": "formula",
+        "title": "姜葱味（粤菜底味）",
+        "title_en": "Ginger-Scallion (Jiāng Cōng) — Cantonese Base",
+        "content": "【公式】姜 + 葱 + 盐 + 热油激香\n\n代表菜：白切鸡、姜葱蒸鱼、姜葱炒蟹\n\n特征：鲜味极度纯粹，不掩盖食材本味，突出食材自身鲜甜\n核心技法：热油激香——常温下姜葱香气很弱，180°C热油浇上去瞬间释放出最大香气\n不用老抽/酱油，只用盐（最多加少量生抽），这是粤菜清淡的来源",
+        "content_en": "【Formula】Ginger + scallion + salt + hot oil poured over\n\nRepresentative dishes: White-cut chicken, ginger-scallion steamed fish, ginger-scallion crab\n\nCharacter: Pure, clean flavor that amplifies the ingredient itself rather than masking it\nCore technique: Hot oil pour — ginger and scallion aromatics barely release at room temperature; 180°C oil poured over them instantly vaporizes the volatile compounds\nNo dark soy sauce; only salt (with minimal light soy at most) — this is the source of Cantonese 'lightness'"
+      }
+    ]
+  },
+  {
+    "id": "xianglia",
+    "icon": "🌿",
+    "title": "香料选择指南",
+    "title_en": "Chinese Spice Selection Guide",
+    "category": "调味",
+    "category_en": "Seasoning",
+    "summary": "每种香料的功能，红烧/卤制的万能香料公式，以及使用香料的禁忌。",
+    "summary_en": "What each spice does, the universal braising spice formula, and the rules you must not break.",
+    "sections": [
+      {
+        "type": "text",
+        "title": "香料的三个功能",
+        "title_en": "Three Functions of Chinese Spices",
+        "content": "中餐香料不是随便混合的，每种香料有明确的功能分工：\n\n**去腥增香**：消除肉类异味并增加底香——八角、桂皮、香叶、草果\n**增加复合香气**：让香气更有层次感——丁香（极少量）、白豆蔻、肉豆蔻\n**定香**：帮助其他香味更持久——甘草（少量）\n**辣香**：提供辣感和辛香——花椒、干辣椒、胡椒、姜\n\n常见错误：用得越多越好。香料是用来「托底」的，过多会产生苦味、药味，掩盖食材本味。卤水的层次感来自平衡，不来自堆料。",
+        "content_en": "Chinese spices aren't mixed randomly — each has a specific functional role:\n\n**Deodorize and add base aroma**: Neutralize meat odors and build foundational fragrance — star anise, cinnamon, bay leaves, tsaoko (草果)\n**Add complexity**: Create aromatic layering — cloves (in tiny amounts), white cardamom, nutmeg\n**Fix aromas**: Help other flavors linger longer — licorice root (small amount)\n**Spice/heat**: Provide pungency — Sichuan peppercorns, dried chilies, black pepper, ginger\n\nCommon mistake: thinking more is better. Spices are a 'foundation,' not the main event. Too many creates bitterness, a medicinal taste, and obscures the ingredient itself. Layered depth in braises comes from balance, not volume."
+      },
+      {
+        "type": "formula",
+        "title": "红烧/卤制万能香料公式",
+        "title_en": "Universal Braising Spice Formula",
+        "content": "【基础包（每1kg肉）】\n八角 2颗 + 桂皮 5g（约1段）+ 香叶 2片 + 姜 20g + 葱 30g\n\n【进阶版（更有层次）】\n基础包 + 草果 1颗（拍裂去籽）+ 花椒 1g\n\n【卤水版（可反复使用的卤汤）】\n基础包 + 草果 + 白豆蔻 3颗 + 丁香 2粒 + 陈皮 5g\n\n⚠️ 红线：\n• 丁香最多2粒（否则苦味主导）\n• 草果必须去籽（籽有苦涩味）\n• 香叶不超过3片\n• 白芷可用可不用，用量极少（1g），多则发苦",
+        "content_en": "【Base Pack (per 1kg meat)】\nStar anise 2 pcs + Cinnamon 5g (1 piece) + Bay leaves 2 + Ginger 20g + Scallions 30g\n\n【Enhanced Version (more layered)】\nBase pack + Tsaoko 1 pc (cracked, seeds removed) + Sichuan peppercorns 1g\n\n【Master Stock Version (reusable braising liquid)】\nBase pack + Tsaoko + White cardamom 3 pcs + Cloves 2 pcs + Dried tangerine peel 5g\n\n⚠️ Hard limits:\n• Cloves: maximum 2 pieces (more = dominant bitterness)\n• Tsaoko: always remove seeds (seeds are acrid and bitter)\n• Bay leaves: no more than 3\n• Angelica root (白芷): optional, use max 1g — more turns bitter fast"
+      },
+      {
+        "type": "table",
+        "title": "常用香料功能速查",
+        "title_en": "Common Spice Function Reference",
+        "headers": [
+          { "zh": "香料", "en": "Spice" },
+          { "zh": "主要功能", "en": "Primary Function" },
+          { "zh": "用量参考/1kg肉", "en": "Amount per 1kg" }
+        ],
+        "rows": [
+          { "col1": "八角", "col1_en": "Star anise", "col2": "去腥，甜香，是红烧的灵魂香料", "col2_en": "Deodorize, sweet aroma — soul of red braising", "col3": "2颗", "col3_en": "2 pcs" },
+          { "col1": "桂皮", "col1_en": "Cinnamon", "col2": "去腥，辛甜香，与八角是黄金搭档", "col2_en": "Deodorize, warm spicy-sweet — pairs with star anise", "col3": "5g", "col3_en": "5g" },
+          { "col1": "香叶", "col1_en": "Bay leaf", "col2": "去腥，草本清香，让香气不过于沉重", "col2_en": "Deodorize, herbal freshness, lightens heavy aromas", "col3": "2片", "col3_en": "2 pcs" },
+          { "col1": "草果", "col1_en": "Tsaoko (black cardamom)", "col2": "去腥效果极强（尤其牛羊），烟熏香", "col2_en": "Powerful deodorizer (especially beef/lamb), smoky note", "col3": "1颗（去籽）", "col3_en": "1 pc (seeded)" },
+          { "col1": "花椒", "col1_en": "Sichuan peppercorn", "col2": "麻香，去腥，增层次", "col2_en": "Numbing aroma, deodorize, adds complexity", "col3": "1-2g", "col3_en": "1–2g" },
+          { "col1": "丁香", "col1_en": "Clove", "col2": "极强的穿透性香气，定香", "col2_en": "Intense penetrating aroma, fixes other flavors", "col3": "1-2粒（最多）", "col3_en": "1–2 pcs (max)" },
+          { "col1": "白豆蔻", "col1_en": "White cardamom", "col2": "清新辛香，让卤水香气更明亮", "col2_en": "Fresh pungent note, brightens braising liquid", "col3": "2-3颗", "col3_en": "2–3 pcs" },
+          { "col1": "陈皮", "col1_en": "Dried tangerine peel", "col2": "去腥（尤其羊肉），柑橘香，减腻", "col2_en": "Deodorize (especially lamb), citrus note, cuts richness", "col3": "3-5g", "col3_en": "3–5g" }
+        ]
+      },
+      {
+        "type": "rules",
+        "title": "香料使用的通用原则",
+        "title_en": "Universal Rules for Using Spices",
+        "items": [
+          { "zh": "香料是辅助，不是主角——用量保守比用量激进好", "en": "Spices support the ingredient, they're not the star — conservative use beats heavy-handed every time" },
+          { "zh": "整颗香料比粉末效果更可控，粉末在红烧菜里容易发苦", "en": "Whole spices are more controllable than powders; powder in braises can turn bitter" },
+          { "zh": "香料在热油中先炝一下，香味释放效率提升3-5倍", "en": "Toast spices in hot oil first — aroma extraction improves 3–5× compared to adding to cold liquid" },
+          { "zh": "卤水或红烧汁可以反复使用，越老越香，但要定期补料", "en": "Master stock/braising liquid improves with use — the older the better, but replenish spices periodically" },
+          { "zh": "去腥香料（八角、桂皮）对猪牛羊有效，对鱼效果有限，鱼用姜葱", "en": "Deodorizing spices (star anise, cinnamon) work for pork/beef/lamb; for fish, stick to ginger and scallion" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "youwen",
+    "icon": "🌡️",
+    "title": "油温判断指南",
+    "title_en": "Oil Temperature Guide",
+    "category": "火候",
+    "category_en": "Heat Control",
+    "summary": "不用温度计，用视觉和听觉判断油温的四个关键温度区间。",
+    "summary_en": "Judge oil temperature by sight and sound — four critical temperature zones and how to read them.",
+    "sections": [
+      {
+        "type": "text",
+        "title": "为什么油温这么重要",
+        "title_en": "Why Oil Temperature Matters So Much",
+        "content": "油温决定了食物下锅后发生什么：\n\n• 温度不足：食材在油里吸油（油炸），或出水变软（炒菜）——Maillard反应无法发生\n• 温度合适：食材表面迅速定型，外酥内嫩，Maillard反应产生焦香味\n• 温度过高：外皮焦糊，内部未熟，或香料苦化\n\n中餐常用油温划分为「成数」：三四成热≈100-130°C，五六成热≈150-170°C，七八成热≈180-200°C，九十成热≈220°C+（接近发烟点）。",
+        "content_en": "Oil temperature determines what happens the moment food hits the pan:\n\n• Too low: food absorbs oil (frying) or releases water and softens (stir-frying) — Maillard reactions can't occur\n• Right: the surface sets rapidly, exterior crisps, interior stays tender, Maillard reactions produce toasted aromas\n• Too high: exterior burns before interior is cooked; or aromatics turn bitter\n\nChinese cooking measures oil temperature in 'tenths': 3–4/10 hot ≈ 100–130°C, 5–6/10 ≈ 150–170°C, 7–8/10 ≈ 180–200°C, 9–10/10 ≈ 220°C+ (near smoking point)."
+      },
+      {
+        "type": "table",
+        "title": "四个关键油温区间",
+        "title_en": "Four Key Oil Temperature Zones",
+        "headers": [
+          { "zh": "温度", "en": "Temperature" },
+          { "zh": "判断方法", "en": "How to Identify" },
+          { "zh": "适用场景", "en": "When to Use" }
+        ],
+        "rows": [
+          { "col1": "100-130°C（三四成热）", "col1_en": "100–130°C (3–4/10)", "col2": "木筷插入，底部有少量细小气泡缓慢升起；葱花下锅微微冒泡但不变色", "col2_en": "Wooden chopstick inserted: a few tiny bubbles rise slowly from the tip. Scallion piece: gentle bubbling, no color change", "col3": "温油炸（酥皮不脆）、炒鸡蛋（超嫩）、炒香料不出苦味", "col3_en": "Gentle frying (soft crust), very tender scrambled eggs, blooming delicate aromatics" },
+          { "col1": "150-170°C（五六成热）", "col1_en": "150–170°C (5–6/10)", "col2": "木筷插入，周围密集细泡持续冒；葱花下锅立刻起泡，边缘开始变黄", "col2_en": "Chopstick: steady stream of small bubbles all around. Scallion: immediate bubbling, edges begin to yellow", "col3": "初炸（第一遍）、爆香姜蒜、炝锅干辣椒", "col3_en": "First fry pass, blooming ginger/garlic, dry-frying chilies" },
+          { "col1": "180-200°C（七八成热）", "col1_en": "180–200°C (7–8/10)", "col2": "油面开始微微波动，木筷周围剧烈冒泡；食材入锅立刻听到爆裂声", "col2_en": "Oil surface shimmers slightly. Chopstick: vigorous bubbling. Food added: instant violent sizzle", "col3": "复炸（第二遍出酥脆）、大火爆炒、热油激香", "col3_en": "Second fry (for crispiness), high-heat stir-frying, the sizzling oil pour" },
+          { "col1": "220°C+（九成热）", "col1_en": "220°C+ (9/10)", "col2": "锅边和油面开始冒青烟，不用筷子测也能看到", "col2_en": "Thin wisps of smoke rise from the oil surface and pan edges — visible without testing", "col3": "几乎不用。仅在「烧汁」和「激香」时需要短暂达到。过高会让油变质", "col3_en": "Rarely needed. Only briefly for 'oil pour' finishing techniques. Sustained high heat degrades the oil" }
+        ]
+      },
+      {
+        "type": "formula",
+        "title": "万能油温测试法",
+        "title_en": "Universal Oil Temperature Test",
+        "content": "【最可靠：木筷测温法】\n干燥的木筷或竹筷垂直插入油中，观察底部气泡：\n• 无泡/极少：低于100°C\n• 少量细泡缓慢：100-130°C\n• 密集细泡持续：150-170°C\n• 剧烈大泡：180°C+\n\n【快速检测：葱花测温法】\n一小段葱白切片，扔入油锅：\n• 沉底缓慢冒泡：150°C左右\n• 立刻上浮，起大泡，边缘变黄：170-180°C\n• 立刻变焦：200°C+\n\n⚠️ 注意：测温前确保筷子/葱花完全干燥，带水分会溅油",
+        "content_en": "【Most Reliable: Wooden Chopstick Method】\nInsert a dry wooden or bamboo chopstick vertically into the oil, observe bubbles at the tip:\n• No/minimal bubbles: below 100°C\n• Few small bubbles, rising slowly: 100–130°C\n• Steady stream of small bubbles: 150–170°C\n• Vigorous large bubbles: 180°C+\n\n【Quick Check: Scallion Method】\nDrop a small piece of scallion white into the oil:\n• Sinks, bubbles slowly: ~150°C\n• Immediately floats, large bubbles, edges yellowing: 170–180°C\n• Immediately browns/chars: 200°C+\n\n⚠️ Always ensure the chopstick or scallion is completely dry — moisture in hot oil causes violent splatter"
+      }
+    ]
+  },
+  {
+    "id": "chaocai",
+    "icon": "🍳",
+    "title": "炒菜基础逻辑",
+    "title_en": "The Logic of Stir-Frying",
+    "category": "火候",
+    "category_en": "Heat Control",
+    "summary": "炒菜不是「把食材放锅里翻来翻去」——了解热锅、下料顺序、出锅时机的内在逻辑。",
+    "summary_en": "Stir-frying isn't just 'toss things in a hot pan' — understand the logic of heat, food order, and when to stop.",
+    "sections": [
+      {
+        "type": "formula",
+        "title": "炒菜万能流程",
+        "title_en": "Universal Stir-Fry Sequence",
+        "content": "【标准炒菜流程】\n\n① 热锅（空锅烧至冒烟）\n② 下油（快速润锅）\n③ 炝锅（葱姜蒜/干辣椒，爆出香味）\n④ 下主料（大火翻炒）\n⑤ 调味（盐/酱油/其他）\n⑥ 勾芡（部分菜需要）\n⑦ 出锅（宁早勿晚）\n\n⚠️ 最常见错误：\n• 冷锅下油：食材粘锅\n• 火候不足：食材出水，变成「煮」\n• 调味太早：盐会加速出水",
+        "content_en": "【Standard Stir-Fry Sequence】\n\n① Heat the wok (empty, until it smokes)\n② Add oil (coat the pan quickly)\n③ Bloom aromatics (scallion/ginger/garlic/dried chilies — until fragrant)\n④ Add main ingredients (high heat, keep moving)\n⑤ Season (salt/soy/other seasonings)\n⑥ Thicken (if the dish calls for it)\n⑦ Plate (sooner rather than later)\n\n⚠️ Most common mistakes:\n• Cold pan with oil: everything sticks\n• Insufficient heat: ingredients release water, you're steaming not stir-frying\n• Seasoning too early: salt accelerates moisture release"
+      },
+      {
+        "type": "text",
+        "title": "热锅冷油 vs 热锅热油",
+        "title_en": "Hot Wok Cold Oil vs Hot Wok Hot Oil",
+        "content": "这是中餐最常见的两种炒菜起手方式，适用场景不同：\n\n**热锅冷油**：锅烧热后下冷油，立刻下食材。\n适用于：炒蛋、豆腐类（防粘）；嫩炒肉类（油温缓慢上升，食材不会一下子焦）。\n\n**热锅热油**：锅烧热，油也烧热，食材下锅瞬间听到爆裂声。\n适用于：蔬菜大火快炒（需要高温锁水保绿）；爆炒类（锅气、Maillard反应要求极高温度）。\n\n区别的本质：热锅冷油利用油温从低到高的过渡，防止高温冲击；热锅热油利用瞬间极高温，产生锅气和焦香。",
+        "content_en": "These are the two most common starting techniques in Chinese stir-frying, each with specific applications:\n\n**Hot wok, cold oil**: Heat the wok first, add room-temperature oil, and immediately add food.\nUse for: Eggs, tofu (anti-stick); tender-fried meats (gradual oil temperature rise prevents sudden charring).\n\n**Hot wok, hot oil**: Heat both wok and oil; food should sizzle violently on contact.\nUse for: Vegetables on high heat (high temperature locks in moisture and keeps color vivid); stir-fried meat dishes that need wok hei and Maillard reactions at maximum temperature.\n\nThe core difference: hot wok/cold oil uses the gradual temperature rise to protect delicate ingredients; hot wok/hot oil exploits instant extreme heat to create wok hei and toasted aromas."
+      },
+      {
+        "type": "table",
+        "title": "食材下锅顺序——先难后易",
+        "title_en": "Ingredient Order — Harder First, More Delicate Last",
+        "headers": [
+          { "zh": "先下锅", "en": "First In" },
+          { "zh": "中间下锅", "en": "Middle" },
+          { "zh": "最后下锅", "en": "Last In" }
+        ],
+        "rows": [
+          { "col1": "胡萝卜、土豆、藕片（淀粉质、高密度）", "col1_en": "Carrots, potato, lotus root (starchy, dense)", "col2": "肉类、木耳、豆腐、笋", "col2_en": "Meat, wood ear mushrooms, tofu, bamboo shoots", "col3": "叶类蔬菜、豆芽、葱花、香菜", "col3_en": "Leafy greens, bean sprouts, scallions, cilantro" },
+          { "col1": "需要3-5分钟才熟透", "col1_en": "Needs 3–5 min to cook through", "col2": "需要1-2分钟", "col2_en": "Needs 1–2 min", "col3": "断生即可，30秒-1分钟", "col3_en": "Just until wilted/hot, 30s–1 min" }
+        ]
+      },
+      {
+        "type": "rules",
+        "title": "炒菜的5个反直觉真相",
+        "title_en": "5 Counter-Intuitive Truths About Stir-Frying",
+        "items": [
+          { "zh": "锅里食材越少，炒出来越好——食材太多导致温度骤降，变成蒸而不是炒", "en": "Less food in the wok = better result. Too much food causes a temperature crash — you're steaming, not frying" },
+          { "zh": "油要比你想象的多——油少是食材出水变软的原因之一", "en": "Use more oil than feels right. Insufficient oil is a leading cause of steamed, watery vegetables" },
+          { "zh": "调味要最后——盐和酱油早放会让食材迅速出水", "en": "Season late. Adding salt or soy sauce early draws out moisture rapidly" },
+          { "zh": "出锅要早——余温继续加热，宁可在盘子里稍欠火候，也不要在锅里过熟", "en": "Pull it early. Residual heat continues cooking on the plate — slightly underdone in the wok is perfectly done at the table" },
+          { "zh": "「大火快炒」的大火是真的大火——家用灶最大挡，不是中火", "en": "'High heat and fast' means genuinely high heat — your stove's maximum, not medium" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gouqian",
+    "icon": "✨",
+    "title": "勾芡完全指南",
+    "title_en": "Complete Guide to Starch Thickening",
+    "category": "技法",
+    "category_en": "Technique",
+    "summary": "为什么要勾芡，三种浓度的比例公式，以及时机判断的关键。",
+    "summary_en": "Why thicken with starch, three concentration formulas, and the critical timing cues.",
+    "sections": [
+      {
+        "type": "text",
+        "title": "勾芡的三个作用",
+        "title_en": "Three Reasons to Thicken",
+        "content": "淀粉遇热糊化（由白色不透明变为半透明凝胶），这一物理变化在烹饪中带来三个效果：\n\n**1. 提亮（亮油）**：糊化淀粉形成的凝胶折射光线，使菜肴表面出现光泽，这就是中餐菜肴「发亮」的来源。\n\n**2. 保温**：淀粉凝胶层隔热，大幅减慢热量散失速度，让菜上桌后保持热度更久。麻婆豆腐之所以「烫」，很大程度因为勾芡。\n\n**3. 裹味（挂汁）**：凝胶状汤汁比稀汤汁更能附着在食材表面，使每口都能吃到调味，而不是味道沉在锅底。",
+        "content_en": "Starch gelatinizes under heat (changing from opaque white to a translucent gel), and this physical transformation produces three cooking effects:\n\n**1. Gloss (liàng yóu)**: The gel formed by gelatinized starch bends light, creating a sheen on the dish's surface. This is where Chinese food's signature 'gleaming' appearance comes from.\n\n**2. Heat retention**: The starch gel layer acts as insulation, dramatically slowing heat loss and keeping dishes hot longer on the table. Much of Mapo tofu's notoriously 'burning hot' character comes from the starch thickening.\n\n**3. Flavor adhesion (guà zhī)**: A sauce thickened to gel consistency clings to food surfaces far better than thin liquid, ensuring every bite carries the seasoning rather than having all the flavor pool at the bottom."
+      },
+      {
+        "type": "formula",
+        "title": "三种浓度公式",
+        "title_en": "Three Thickness Levels",
+        "content": "【薄芡——汤类，蛋花汤浓度】\n淀粉 : 水 = 1 : 4\n效果：汤汁略有挂感，流动顺畅，适合三鲜汤、酸辣汤\n\n【中芡——炒菜标准，最常用】\n淀粉 : 水 = 1 : 2\n效果：汤汁半流动，能挂在食材上，适合宫保鸡丁、麻婆豆腐、各类炒菜\n\n【厚芡——裹汁类，勺子舀起缓慢流下】\n淀粉 : 水 = 1 : 1.5\n效果：汤汁如蜂蜜状，大量裹住食材，适合烧汁虾、糖醋类收尾\n\n⚠️ 建议：永远用碗提前调好水淀粉再下锅（「碗芡」），比直接撒淀粉粉更易控制浓度。宁可分两次加，不要一次加太多。",
+        "content_en": "【Thin — soup consistency, like egg-drop soup】\nStarch : Water = 1 : 4\nEffect: Slight body, flows freely. Use for hot and sour soup, three-delicacy soup\n\n【Medium — standard stir-fry, most common】\nStarch : Water = 1 : 2\nEffect: Semi-mobile, clings to food surfaces. Use for Kung Pao chicken, Mapo tofu, most stir-fries\n\n【Thick — full-coating, like honey off a spoon】\nStarch : Water = 1 : 1.5\nEffect: Honey-like, heavily coats food. Use for sauce-braised shrimp, sweet-sour glazing\n\n⚠️ Strong recommendation: Always mix the starch slurry in a bowl first ('wǎn qiàn' — bowl slurry) before adding to the pan. Never add dry starch directly. Add in two passes rather than all at once — you can always thicken more, you can't thin it back."
+      },
+      {
+        "type": "formula",
+        "title": "勾芡的时机和判断",
+        "title_en": "When and How to Thicken",
+        "content": "【加芡的正确时机】\n\n汤汁沸腾 + 调味完成后再加\n→ 温度低时加芡，淀粉不能充分糊化，会有生粉味\n\n【加芡后的操作】\n倒入水淀粉后不要立刻翻炒——\n等3-5秒，看到汤汁开始变稠（边缘出现光泽）\n再轻轻推动/翻炒至均匀\n\n【如何判断芡已好了】\n✅ 汤汁从透明变成半透明，挂在食材上不立刻流下\n✅ 铲子划过锅底，能看到明显划痕（不是立刻被汤汁填满）\n❌ 汤汁太稀：没糊化完全，继续加热或补水淀粉\n❌ 汤汁太稠：成胶块状，加少量热水稀释",
+        "content_en": "【Correct Timing】\n\nAdd the slurry after the liquid is boiling and all seasoning is complete\n→ Adding at low temperature: starch won't fully gelatinize, leaving a raw-starch taste\n\n【After Adding】\nAfter pouring in the slurry, don't stir immediately —\nWait 3–5 seconds until you see the edges of the liquid starting to thicken and gloss\nThen gently fold/stir until evenly distributed\n\n【How to Know It's Ready】\n✅ Liquid shifts from clear to semi-translucent, clings to food without immediately running off\n✅ A spatula dragged across the pan bottom leaves a visible track that doesn't immediately fill back\n❌ Too thin: not fully gelatinized — keep heating or add more slurry\n❌ Too thick: gelatinous lumps forming — add a small splash of hot water and stir"
+      }
+    ]
+  },
+  {
+    "id": "tangse",
+    "icon": "🍬",
+    "title": "糖色与上色技法",
+    "title_en": "Caramelization & Coloring Techniques",
+    "category": "技法",
+    "category_en": "Technique",
+    "summary": "糖色为什么比老抽更好，炒糖色的四个阶段，以及中餐三种上色方式的对比。",
+    "summary_en": "Why caramelized sugar beats dark soy sauce, the four stages of caramelization, and a comparison of China's three coloring methods.",
+    "sections": [
+      {
+        "type": "text",
+        "title": "中餐的三种上色方式",
+        "title_en": "China's Three Coloring Methods",
+        "content": "中餐红烧/卤制类菜肴的红亮色泽来自三种手段，各有优劣：\n\n**糖色**：将糖加热至焦糖化，颜色从无色→琥珀→深棕红。色泽最红亮，带有焦糖香，是最高级的上色方式。需要技术，容易过头变苦。\n\n**老抽（深色酱油）**：直接添加，操作最简单。颜色偏深棕黑，缺乏糖色的红亮感，但风味稳定，是家常菜的保险选择。\n\n**番茄酱/腐乳**：特殊场景使用。番茄酱用于糖醋类，腐乳用于南乳红烧，颜色偏橙红，各带独特风味。\n\n最佳方案：糖色（主色）+ 少量老抽（补色）——这是大多数餐厅红烧菜的标准做法。",
+        "content_en": "The glossy red color in Chinese braised and stewed dishes comes from three methods, each with different trade-offs:\n\n**Caramelized sugar (táng sè)**: Sugar heated until it caramelizes, progressing from clear → amber → deep reddish-brown. Produces the most vivid red-glossy color with a caramel aroma — the premium coloring method. Requires attention and is easy to ruin by going too dark.\n\n**Dark soy sauce (lǎo chōu)**: Added directly — easiest method. Color is deep brownish-black, lacking the vivid red of caramel, but consistent and foolproof. The default for home cooking.\n\n**Tomato paste / fermented tofu (nán rǔ)**: Situation-specific. Tomato paste for sweet-sour dishes; fermented tofu for Cantonese-style red braising. Both produce an orange-red tone with their own distinctive flavors.\n\nOptimal approach: Caramelized sugar (primary color) + small amount of dark soy sauce (supplementary color) — the standard in most restaurant-quality braised dishes."
+      },
+      {
+        "type": "formula",
+        "title": "炒糖色的四个阶段",
+        "title_en": "The Four Stages of Caramelizing Sugar",
+        "content": "【全程小火，不离锅】\n\n阶段①：融化期\n外观：固体糖开始融化，变成浅黄色液体，冒小泡\n操作：可以开始慢慢搅动\n\n阶段②：琥珀期（可用于拔丝类甜品）\n外观：液体变成透明金黄色，像蜂蜜\n操作：持续小火，注意颜色加深速度\n\n阶段③：焦糖期（红烧目标色）\n外观：颜色从金黄→深琥珀→「可乐色」（深棕红）\n操作：此刻立刻下肉，离火加热水\n\n阶段④：过焦期（苦，报废）\n外观：颜色变黑，烟增多，气味从香变苦\n操作：不可用，必须倒掉重来\n\n⚠️ 关键：阶段③的时间窗口非常短（30-60秒），过了就是阶段④。一旦颜色到位，立刻下食材或加水，用食材的温度降低锅温。",
+        "content_en": "【Low heat throughout — don't walk away】\n\nStage ①: Melting\nAppearance: Solid sugar begins to melt, pale yellow liquid, small bubbles\nAction: Begin stirring slowly\n\nStage ②: Amber (suitable for toffee and pulled-sugar desserts)\nAppearance: Clear, golden-honey color\nAction: Maintain low heat, watch closely — color is accelerating\n\nStage ③: Caramel (target color for red braising)\nAppearance: Color shifts from golden → deep amber → 'cola color' (deep reddish-brown)\nAction: Add meat immediately, then add hot water away from the flame\n\nStage ④: Burnt (bitter, unusable)\nAppearance: Color turns black, more smoke, smell shifts from fragrant to acrid\nAction: Discard and start over — there is no recovering from this\n\n⚠️ Critical: The window for Stage ③ is very short (30–60 seconds). Once you hit burnt, it's over. The moment color is right, immediately add the food or a splash of hot water to drop the pan temperature."
+      },
+      {
+        "type": "formula",
+        "title": "冰糖 vs 白糖 vs 红糖",
+        "title_en": "Rock Sugar vs White Sugar vs Brown Sugar",
+        "content": "【选糖公式】\n\n🥇 冰糖（首选）\n成分：蔗糖+少量葡萄糖和果糖\n优点：焦糖化温度更低，颜色更红亮，不易发苦\n适用：红烧肉、红烧鱼、所有需要漂亮色泽的菜\n\n🥈 白砂糖（替代品）\n成分：纯蔗糖\n特点：焦糖化温度较高，颜色偏棕，风味略单一\n适用：普通炒菜调味，糖醋汁\n\n🥉 红糖（特殊场合）\n成分：蔗糖+糖蜜杂质\n特点：有焦香和甘蔗风味，但颜色发暗，不适合追求红亮色泽的菜\n适用：姜糖水、红糖发糕、偏重风味的卤味",
+        "content_en": "【Sugar Selection Formula】\n\n🥇 Rock Sugar (first choice)\nComposition: Sucrose + small amounts of glucose and fructose\nAdvantage: Caramelizes at a lower temperature, produces a more vivid red-amber color, harder to burn bitter\nUse for: Red-braised pork, braised fish, any dish where color matters\n\n🥈 White Granulated Sugar (substitute)\nComposition: Pure sucrose\nCharacteristic: Caramelizes at higher temperatures, produces a browner (less red) color, slightly one-dimensional\nUse for: General stir-fry seasoning, sweet-sour sauces\n\n🥉 Brown Sugar (special uses)\nComposition: Sucrose + molasses\nCharacteristic: Has a toasty, sugarcane-forward flavor, but the color is dull — not suitable when vivid color matters\nUse for: Ginger-brown sugar tea, steamed cakes, deeply flavored braised dishes"
+      }
+    ]
+  },
+  {
+    "id": "pengren-jifa",
+    "icon": "🔥",
+    "title": "中餐基础烹饪技法",
+    "title_en": "Core Chinese Cooking Methods",
+    "category": "技法",
+    "category_en": "Technique",
+    "summary": "炒、炸、煎、煮、蒸、炖、焖、烹——八种技法的原理、适用食材与关键参数。",
+    "summary_en": "Stir-fry, deep-fry, pan-fry, boil, steam, braise, cover-cook, flash-cook — eight methods, their physics, and when to use each.",
+    "sections": [
+      {
+        "type": "text",
+        "title": "技法的本质是热量传递方式",
+        "title_en": "Cooking Methods Are Just Heat Transfer Modes",
+        "content": "所有烹饪技法的本质，都是控制热量以何种方式、以多快的速度传入食材。不同传热方式产生完全不同的结果：\n\n**直接热辐射**（炭火、铁板）：表面极度高温，产生焦香壳\n**热油传热**（炒、炸、煎）：油脂导热效率高，可达200°C+，产生Maillard反应\n**水/汤传热**（煮、炖）：水最高100°C，温和均匀，适合长时间软化\n**蒸汽传热**（蒸）：100°C饱和蒸汽，均匀且保湿，适合嫩质食材\n\n选择技法的核心逻辑：食材是什么质地？需要什么口感？有多少时间？",
+        "content_en": "Every cooking method is ultimately about controlling how heat enters the food — the mode and speed of transfer determine the result.\n\n**Direct radiant heat** (charcoal, iron plate): Extreme surface temperatures, creates a hard, charred crust\n**Hot oil conduction** (stir-fry, deep-fry, pan-fry): Oil conducts heat efficiently at 200°C+, enabling Maillard reactions\n**Water/liquid conduction** (boiling, braising): Water caps at 100°C — gentle and even, ideal for long-duration softening\n**Steam conduction** (steaming): 100°C saturated steam — even heat, high humidity, ideal for delicate proteins\n\nThe core logic for choosing a method: What is the ingredient's texture? What texture do you want? How much time do you have?"
+      },
+      {
+        "type": "table",
+        "title": "八大技法速览",
+        "title_en": "Eight Methods at a Glance",
+        "headers": [
+          { "zh": "技法", "en": "Method" },
+          { "zh": "传热介质", "en": "Heat Medium" },
+          { "zh": "温度范围", "en": "Temperature" },
+          { "zh": "核心结果", "en": "Key Result" }
+        ],
+        "rows": [
+          { "col1": "炒 Chǎo", "col1_en": "Stir-fry", "col2": "热油+高温锅", "col2_en": "Hot oil + hot wok", "col3": "180–300°C", "col3_en": "180–300°C" },
+          { "col1": "炸 Zhá", "col1_en": "Deep-fry", "col2": "大量热油浸没", "col2_en": "Submerged in hot oil", "col3": "150–200°C", "col3_en": "150–200°C" },
+          { "col1": "煎 Jiān", "col1_en": "Pan-fry", "col2": "少量热油接触底面", "col2_en": "Thin oil, bottom contact only", "col3": "160–190°C", "col3_en": "160–190°C" },
+          { "col1": "煮 Zhǔ", "col1_en": "Boil/Simmer", "col2": "水或汤汁", "col2_en": "Water or broth", "col3": "85–100°C", "col3_en": "85–100°C" },
+          { "col1": "蒸 Zhēng", "col1_en": "Steam", "col2": "100°C水蒸气", "col2_en": "100°C saturated steam", "col3": "100°C", "col3_en": "100°C" },
+          { "col1": "炖 Dùn", "col1_en": "Braise/Stew", "col2": "水/汤，加盖小火", "col2_en": "Liquid, covered, low heat", "col3": "85–95°C", "col3_en": "85–95°C" },
+          { "col1": "焖 Mèn", "col1_en": "Cover-braise", "col2": "少量液体+密封蒸汽", "col2_en": "Small liquid + sealed steam", "col3": "100°C+", "col3_en": "100°C+" },
+          { "col1": "烹 Pēng", "col1_en": "Flash-cook", "col2": "高温锅+瞬间汽化液体", "col2_en": "Superheated wok + flash-vaporized liquid", "col3": "200°C+（瞬间）", "col3_en": "200°C+ (instant)" }
+        ]
+      },
+      {
+        "type": "formula",
+        "title": "炒——最考验技术的技法",
+        "title_en": "Stir-Fry (Chǎo) — The Most Technically Demanding",
+        "content": "核心要素：高温、快速、少量、不停运动\n\n【适合食材】叶菜、嫩肉丝/片、豆腐、鸡蛋——质地嫩、熟得快\n【不适合】大块肉、根茎类（需要更长时间均匀受热）\n\n两种炒法：\n• 生炒：食材直接下锅炒熟（青椒炒肉丝）\n• 熟炒/滑炒：食材预处理（焯水或滑油）后再合炒（鱼香肉丝、宫保鸡丁）\n\n熟炒的优点：肉类更嫩，不出水，适合肉+蔬菜组合\n\n【黄金参数】\n锅温：>180°C（冒烟后下食材）\n每次炒的量：不超过锅面2/3\n翻炒节奏：持续运动，食材在锅中停留不超过5秒",
+        "content_en": "Core requirements: High temperature, speed, small batches, constant movement\n\n【Best for】Leafy greens, tender meat strips/slices, tofu, eggs — delicate textures that cook fast\n【Poor choice】Large meat pieces, root vegetables (need longer, more even heat)\n\nTwo modes:\n• Shēng chǎo (raw stir-fry): ingredients go in raw (green pepper pork)\n• Shú chǎo / huá chǎo (pre-cooked stir-fry): ingredients blanched or velvet-fried first, then combined (yu xiang pork, Kung Pao chicken)\n\nAdvantage of pre-cooked: more tender meat, no water pooling — ideal for meat + vegetable combinations\n\n【Key Parameters】\nWok temp: >180°C (add food after the wok smokes)\nBatch size: no more than 2/3 of wok surface area\nMovement: continuous — no ingredient stationary for more than 5 seconds"
+      },
+      {
+        "type": "formula",
+        "title": "炸——两次炸法是关键",
+        "title_en": "Deep-Fry (Zhá) — The Double-Fry Is the Secret",
+        "content": "核心要素：足量油（没过食材）、控制油温、两次炸\n\n【适合食材】裹糊的肉类（里脊、鸡翅）、薯条、豆腐、春卷\n\n【两次炸法】\n第一炸（150–160°C，3–5分钟）\n→ 目的：熟透，淀粉糊定型\n→ 捞出静置1分钟（让内部余热均匀）\n\n第二炸（180–190°C，30–60秒）\n→ 目的：高温使外皮迅速脱水，形成玻璃态脆壳\n→ 颜色变深金黄，气泡减少时立刻捞出\n\n【油温不足的后果】食材吸油→外皮软烂，油腻\n\n【判断油够了】食材入锅立刻上浮，持续大量气泡（水分蒸发中）",
+        "content_en": "Core requirements: Enough oil to submerge, temperature control, double-fry\n\n【Best for】Battered meats (tenderloin, wings), fries, tofu, spring rolls\n\n【Double-Fry】\nFirst fry (150–160°C, 3–5 min)\n→ Goal: Cook through, set the batter\n→ Remove and rest 1 minute (interior heat equalizes)\n\nSecond fry (180–190°C, 30–60 sec)\n→ Goal: Intense heat rapidly dehydrates the crust → glassy, rigid shell\n→ When color hits deep gold and bubbling slows — pull immediately\n\n【Low temp consequence】Food soaks oil → greasy, soft exterior\n\n【How to know oil is ready】Food floats immediately on entry; vigorous sustained bubbling (water escaping as steam)"
+      },
+      {
+        "type": "formula",
+        "title": "煎——单面焦香，耐心等待",
+        "title_en": "Pan-Fry (Jiān) — One-Sided Crunch, Patience Required",
+        "content": "核心要素：少油（2–3mm深）、平底锅、不翻动等底面成型\n\n【适合食材】整鱼或鱼块、肉排、豆腐块、煎饺、鸡蛋\n\n【关键规则：不要乱动】\n食材下锅后——等底面形成金黄焦壳\n「推一下能滑动」= 可以翻面了\n强行翻面会撕破焦壳，破坏外观\n\n【防粘三法】\n① 热锅冷油（锅热后下油立刻下食材）\n② 食材表面擦干（水分是粘锅的根本原因）\n③ 用铸铁锅/不粘锅\n\n【煎鱼不破皮】\n擦干鱼身 → 热锅冷油 → 中火 → 下锅2分钟内不动 → 等底面金黄松动再翻",
+        "content_en": "Core requirements: Shallow oil (2–3mm), flat pan, don't move until the bottom crust forms\n\n【Best for】Whole fish or pieces, meat chops, tofu, potstickers, eggs\n\n【The Critical Rule: Don't Touch It】\nAfter food goes in — wait for a golden crust on the bottom\n'Slides when nudged' = ready to flip\nForcing a flip tears the crust and ruins the presentation\n\n【Three Anti-Stick Methods】\n① Hot pan, cold oil (heat pan first, add oil, add food immediately)\n② Pat food completely dry (moisture is the root cause of sticking)\n③ Use cast iron or non-stick\n\n【Pan-Fry Fish Without Breaking Skin】\nPat dry → hot pan cold oil → medium heat → don't touch for 2 full minutes → wait for natural release before flipping"
+      },
+      {
+        "type": "formula",
+        "title": "蒸——精准时间，最嫩的技法",
+        "title_en": "Steam (Zhēng) — Precise Timing, Most Tender Results",
+        "content": "核心要素：水沸腾后再放食材、全程大火、时间精准\n\n【适合食材】整鱼、贝类、蛋羹、肉饼、包子馒头\n\n【蒸的三大优势】\n• 恒定100°C，不会过热\n• 饱和蒸汽保湿，食材不失水\n• 最大程度保留水溶性营养素\n\n【时间参考（大火全程）】\n蛋羹：8–10分钟（中小火，防表面起泡）\n鱼（600g）：8分钟\n螃蟹：15–20分钟\n排骨（斩小块）：25–30分钟\n\n【关键操作】\n• 水沸再上笼（冷蒸影响口感和时间）\n• 掀盖时侧身，蒸汽烫伤比开水更严重（蒸汽汽化热高）",
+        "content_en": "Core requirements: Water boiling before food enters, high heat throughout, precise timing\n\n【Best for】Whole fish, shellfish, steamed egg custard, meat patties, steamed buns\n\n【Three Core Advantages】\n• Constant 100°C — can't overheat from heat alone\n• Saturated steam keeps food moist — zero moisture loss\n• Best preservation of water-soluble nutrients\n\n【Timing Reference (high heat)】\nEgg custard: 8–10 min (medium-low to prevent surface bubbling)\nWhole fish (600g): 8 min\nCrab: 15–20 min\nSpareribs (small pieces): 25–30 min\n\n【Critical Steps】\n• Water must be boiling before food goes in (cold-start ruins texture and timing)\n• Tilt the lid away from you when opening — steam burns are more severe than boiling water burns (latent heat of vaporization)"
+      },
+      {
+        "type": "formula",
+        "title": "炖——时间换来的软糯",
+        "title_en": "Braise/Stew (Dùn) — Tenderness Bought with Time",
+        "content": "核心要素：足量液体（没过食材）、小火、加盖、足够时间\n\n【适合食材】五花肉、排骨、牛腩、整鸡、猪蹄——富含结缔组织的部位\n\n【为什么必须小火】\n胶原蛋白在85°C以上水解为明胶，但需要1–2小时\n大火沸腾：蛋白质纤维碰撞断裂（肉散架）\n小火微沸（90°C）：胶原蛋白缓慢均匀水解\n\n【时间与口感关系】\n30分钟：表面软，内部有嚼劲\n60分钟：整体软烂，保持形状\n90分钟+：入口即化，夹起时微微颤抖\n\n【加水原则】\n一次加足；需要加水时必须加热水（冷水使蛋白质收紧）",
+        "content_en": "Core requirements: Enough liquid to cover, low heat, lid on, sufficient time\n\n【Best for】Pork belly, ribs, beef brisket, whole chicken, trotters — cuts rich in connective tissue\n\n【Why Low Heat Is Non-Negotiable】\nCollagen hydrolyzes into gelatin above 85°C, but this takes 1–2 hours\nHigh boil: protein fibers collide and fragment (meat falls apart badly)\nGentle simmer (~90°C): collagen hydrolyzes slowly and evenly → silky texture\n\n【Time vs. Texture】\n30 min: Soft exterior, still chewy inside\n60 min: Soft throughout, holds shape\n90+ min: Melts in the mouth, jiggles when picked up\n\n【Liquid Rule】\nAdd enough at the start; if you must add more, always use hot water (cold water causes protein contraction)"
+      },
+      {
+        "type": "formula",
+        "title": "烹（Pēng）——中餐独有的闪炒激香技法",
+        "title_en": "Flash-Cook (Pēng) — A Uniquely Chinese Technique",
+        "content": "「烹」是中餐独有技法：食材在高温中快速定型后，沿锅边淋入少量液体（料酒/醋/酱汁），液体接触超热锅边瞬间汽化，用蒸汽在1–2秒内完成调味和激香。\n\n【关键特征】\n沿锅边（最热处）倒入，而非从中间倒\n液体接触锅边瞬间爆「滋」一声\n这股蒸汽携带酒香/醋香，瞬间渗入食材\n\n【典型场景】\n• 煎好的鱼烹入料酒：去腥效果远强于腌制时加\n• 炒菜出锅前沿锅边烹醋：增香不增酸（醋酸挥发，留香气）\n• 爆炒菜肴烹入酱汁：瞬间附着食材表面，比直接淋效果好\n\n【与直接倒入的区别】\n从锅边倒（200°C+）→ 瞬间汽化→ 蒸汽渗透\n从中间倒（100°C左右）→ 慢慢加热→ 效果减半",
+        "content_en": "'Pēng' is uniquely Chinese: after food is seared or stir-fried at high heat, a small amount of liquid (Shaoxing wine, vinegar, or sauce) is poured along the wok's edge — the hottest point. The liquid flash-vaporizes on contact, and the aromatic steam penetrates the food in 1–2 seconds.\n\n【Key Characteristics】\nPour along the wok edge (hottest surface), never into the center\nLiquid hits the superheated iron with a sharp sizzle\nThe burst of steam carries the aroma directly into the food\n\n【Typical Uses】\n• Seared fish with a pēng of Shaoxing wine: more effective deodorizing than marinating\n• Stir-fry right before plating with a pēng of vinegar: adds aroma without sourness (acetic acid evaporates; only fragrance remains)\n• Sauce added to stir-fry via pēng: flash-vaporization drives better adhesion than pouring into the center\n\n【vs. Pouring Directly In】\nWok edge (200°C+) → instant vaporization → steam penetration\nWok center (~100°C) → slow heating → half the effect"
+      }
+    ]
+  }
+]
