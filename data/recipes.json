@@ -2,797 +2,589 @@
   {
     "id": "gongbao-jiding",
     "name": "宫保鸡丁",
+    "name_en": "Kung Pao Chicken",
     "category": "川菜",
+    "category_en": "Sichuan",
     "flavor": "糊辣荔枝味",
+    "flavor_en": "Spicy Lychee",
     "difficulty": 2,
     "time": 25,
     "serving": 2,
     "description": "经典川菜，酸甜微辣，鸡丁嫩滑，花生酥脆。",
+    "description_en": "A Sichuan classic — tender chicken in a glossy sweet-sour-spicy sauce, finished with crunchy peanuts.",
     "tags": ["辣", "快手", "下饭"],
+    "tags_en": ["Spicy", "Quick", "Rice Pairing"],
     "ingredients": [
-      { "name": "鸡胸肉", "amount": 300, "unit": "g", "note": "或鸡腿肉更嫩" },
-      { "name": "花生米", "amount": 60, "unit": "g", "note": "油炸或炒熟" },
-      { "name": "干辣椒", "amount": 8, "unit": "根", "note": "去籽减辣" },
-      { "name": "花椒", "amount": 1, "unit": "g" },
-      { "name": "生姜", "amount": 10, "unit": "g" },
-      { "name": "大葱", "amount": 20, "unit": "g" },
-      { "name": "大蒜", "amount": 10, "unit": "g" }
+      { "name": "鸡胸肉", "name_en": "Chicken breast", "amount": 300, "unit": "g", "note": "或鸡腿肉更嫩", "note_en": "Thigh meat is more tender" },
+      { "name": "花生米", "name_en": "Peanuts", "amount": 60, "unit": "g", "note": "油炸或炒熟", "note_en": "Deep-fried or dry-toasted" },
+      { "name": "干辣椒", "name_en": "Dried red chilies", "amount": 8, "unit": "根", "unit_en": "pcs", "note": "去籽减辣", "note_en": "Remove seeds for less heat" },
+      { "name": "花椒", "name_en": "Sichuan peppercorns", "amount": 1, "unit": "g" },
+      { "name": "生姜", "name_en": "Fresh ginger", "amount": 10, "unit": "g" },
+      { "name": "大葱", "name_en": "Scallions", "amount": 20, "unit": "g" },
+      { "name": "大蒜", "name_en": "Garlic", "amount": 10, "unit": "g" }
     ],
     "seasonings": [
-      { "name": "生抽", "amount": 15, "unit": "ml" },
-      { "name": "老抽", "amount": 5, "unit": "ml" },
-      { "name": "料酒", "amount": 10, "unit": "ml" },
-      { "name": "醋", "amount": 20, "unit": "ml", "note": "镇江香醋最佳" },
-      { "name": "白糖", "amount": 15, "unit": "g" },
-      { "name": "淀粉", "amount": 10, "unit": "g" },
-      { "name": "盐", "amount": 2, "unit": "g" },
-      { "name": "食用油", "amount": 30, "unit": "ml" }
+      { "name": "生抽", "name_en": "Light soy sauce", "amount": 15, "unit": "ml" },
+      { "name": "老抽", "name_en": "Dark soy sauce", "amount": 5, "unit": "ml" },
+      { "name": "料酒", "name_en": "Shaoxing wine", "amount": 10, "unit": "ml" },
+      { "name": "醋", "name_en": "Chinese black vinegar", "amount": 20, "unit": "ml", "note": "镇江香醋最佳", "note_en": "Zhenjiang vinegar preferred" },
+      { "name": "白糖", "name_en": "Sugar", "amount": 15, "unit": "g" },
+      { "name": "淀粉", "name_en": "Cornstarch", "amount": 10, "unit": "g" },
+      { "name": "盐", "name_en": "Salt", "amount": 2, "unit": "g" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 30, "unit": "ml" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "腌制鸡丁",
-        "desc": "鸡胸肉切1.5cm小丁，加生抽5ml、料酒、淀粉8g、盐1g抓匀，腌制10分钟。",
-        "indicator": "鸡丁表面裹一层薄芡，颜色微白，摸起来有点黏但不流，这说明淀粉挂上了。",
-        "tip": "切丁大小要均匀，否则熟度不一致。"
-      },
-      {
-        "step": 2,
-        "title": "调糊辣汁",
-        "desc": "碗里混合：生抽10ml、老抽5ml、醋20ml、白糖15g、淀粉2g、清水20ml，搅匀备用。",
-        "indicator": "汁水呈深棕色，尝一口是先酸后甜、微咸的复合味，就对了。",
-        "tip": "这就是糊辣荔枝味的公式：醋>糖>酱油，酸甜比约4:3。"
-      },
-      {
-        "step": 3,
-        "title": "炸/炒花生",
-        "desc": "冷锅冷油下花生，中小火不停翻炒，约5分钟至花生颜色变深。",
-        "indicator": "听到花生发出密集的噼啪声变稀疏，且颜色从米白变为浅棕，立刻捞出。注意余温会继续加热，捞早一点。",
-        "tip": "花生冷却后才会变脆，刚出锅是软的是正常的。"
-      },
-      {
-        "step": 4,
-        "title": "爆香底料",
-        "desc": "锅烧至冒烟，下油，放干辣椒和花椒，小火爆香约30秒。",
-        "indicator": "辣椒颜色从红色变为深棕红（近似砖红），油色变黄，闻到浓烈辣香——但辣椒不能焦黑，黑了就苦了。",
-        "tip": "这一步叫「炝锅」，是川菜底味的来源，油温不能太高，辣椒容易糊。"
-      },
-      {
-        "step": 5,
-        "title": "滑炒鸡丁",
-        "desc": "转大火，下鸡丁快速翻炒，约2分钟至鸡丁表面变白定型。",
-        "indicator": "鸡丁表面全部变白，不再有粉红色生肉，但中间可以还没熟透，下一步会继续加热。",
-        "tip": "大火快炒是鸡丁嫩滑的关键。锅温不足、鸡丁太多都会变成「煮」而不是「炒」，导致出水变老。"
-      },
-      {
-        "step": 6,
-        "title": "加葱姜蒜",
-        "desc": "推开鸡丁，下姜蒜末，爆出香味，再下葱段翻炒均匀。",
-        "indicator": "姜蒜下锅后约10秒，能闻到明显香气飘出，颜色开始变透明微黄。"
-      },
-      {
-        "step": 7,
-        "title": "烹汁收尾",
-        "desc": "沿锅边倒入调好的糊辣汁，大火翻炒至汁水浓稠裹住食材，最后放花生翻匀出锅。",
-        "indicator": "汁水从稀变稠，挂在鸡丁上发出光泽感，而不是堆在锅底——这叫「收汁亮芡」，说明淀粉糊化完成。",
-        "tip": "花生最后放，防止受潮变软。"
-      }
+      { "step": 1, "title": "腌制鸡丁", "desc": "鸡胸肉切1.5cm小丁，加生抽5ml、料酒、淀粉8g、盐1g抓匀，腌制10分钟。", "indicator": "鸡丁表面裹一层薄芡，颜色微白，摸起来有点黏但不流，这说明淀粉挂上了。", "tip": "切丁大小要均匀，否则熟度不一致。" },
+      { "step": 2, "title": "调糊辣汁", "desc": "碗里混合：生抽10ml、老抽5ml、醋20ml、白糖15g、淀粉2g、清水20ml，搅匀备用。", "indicator": "汁水呈深棕色，尝一口是先酸后甜、微咸的复合味，就对了。", "tip": "这就是糊辣荔枝味的公式：醋>糖>酱油，酸甜比约4:3。" },
+      { "step": 3, "title": "炸/炒花生", "desc": "冷锅冷油下花生，中小火不停翻炒，约5分钟至花生颜色变深。", "indicator": "听到花生发出密集的噼啪声变稀疏，且颜色从米白变为浅棕，立刻捞出。注意余温会继续加热，捞早一点。", "tip": "花生冷却后才会变脆，刚出锅是软的是正常的。" },
+      { "step": 4, "title": "爆香底料", "desc": "锅烧至冒烟，下油，放干辣椒和花椒，小火爆香约30秒。", "indicator": "辣椒颜色从红色变为深棕红（近似砖红），油色变黄，闻到浓烈辣香——但辣椒不能焦黑，黑了就苦了。", "tip": "这一步叫「炝锅」，是川菜底味的来源，油温不能太高，辣椒容易糊。" },
+      { "step": 5, "title": "滑炒鸡丁", "desc": "转大火，下鸡丁快速翻炒，约2分钟至鸡丁表面变白定型。", "indicator": "鸡丁表面全部变白，不再有粉红色生肉，但中间可以还没熟透，下一步会继续加热。", "tip": "大火快炒是鸡丁嫩滑的关键。锅温不足、鸡丁太多都会变成「煮」而不是「炒」，导致出水变老。" },
+      { "step": 6, "title": "加葱姜蒜", "desc": "推开鸡丁，下姜蒜末，爆出香味，再下葱段翻炒均匀。", "indicator": "姜蒜下锅后约10秒，能闻到明显香气飘出，颜色开始变透明微黄。" },
+      { "step": 7, "title": "烹汁收尾", "desc": "沿锅边倒入调好的糊辣汁，大火翻炒至汁水浓稠裹住食材，最后放花生翻匀出锅。", "indicator": "汁水从稀变稠，挂在鸡丁上发出光泽感，而不是堆在锅底——这叫「收汁亮芡」，说明淀粉糊化完成。", "tip": "花生最后放，防止受潮变软。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Marinate the chicken", "desc": "Dice chicken into 1.5cm cubes. Toss with 5ml light soy sauce, Shaoxing wine, 8g cornstarch, and 1g salt. Marinate for 10 minutes.", "indicator": "The chicken cubes should be coated in a thin, slightly sticky starchy film that doesn't drip off — that means the starch has adhered properly.", "tip": "Keep the cubes uniform in size so they cook at the same rate." },
+      { "step": 2, "title": "Mix the sauce", "desc": "Combine in a small bowl: 10ml light soy sauce, 5ml dark soy sauce, 20ml vinegar, 15g sugar, 2g cornstarch, and 20ml water. Stir until dissolved.", "indicator": "The sauce should look deep brown. Taste it: you should get a layered hit of sour first, then sweet, then a touch of salt — that's the target.", "tip": "This is the 'lychee spice' formula: vinegar > sugar > soy sauce, roughly 4:3:2." },
+      { "step": 3, "title": "Toast the peanuts", "desc": "Start with a cold pan and cold oil. Add peanuts and stir constantly over medium-low heat for about 5 minutes until they darken.", "indicator": "Listen for the rapid crackling to slow to occasional pops, and watch the color shift from ivory to light brown — pull them out immediately. Residual heat will keep cooking them.", "tip": "Peanuts only turn crunchy once cooled — soft straight from the pan is completely normal." },
+      { "step": 4, "title": "Bloom the aromatics", "desc": "Heat the wok until it just starts smoking. Add oil, then add the dried chilies and Sichuan peppercorns. Stir over low heat for about 30 seconds.", "indicator": "The chilies should deepen from bright red to a brick red-brown. The oil turns golden and gives off an intense, spicy aroma — but don't let them go black, or the dish will taste bitter.", "tip": "This step is called 'qiāng guō' (炝锅) — it's the flavor foundation of Sichuan cooking. Keep the heat low; chilies go from perfect to burnt in seconds." },
+      { "step": 5, "title": "Stir-fry the chicken", "desc": "Turn to high heat. Add the chicken and stir-fry quickly for about 2 minutes until the surfaces turn white.", "indicator": "All surfaces should be white with no pink remaining — though the center can still be slightly underdone, as it will finish in the next step.", "tip": "High heat and fast movement are what keep the chicken tender. Too low a temperature or too much chicken at once turns this into steaming — the meat releases water and turns tough." },
+      { "step": 6, "title": "Add aromatics", "desc": "Push the chicken to the side, add minced ginger and garlic to the center, and cook until fragrant. Then add the scallion pieces and toss everything together.", "indicator": "Within about 10 seconds of adding the ginger and garlic, a clear, sharp fragrance should rise. They'll turn slightly translucent and golden." },
+      { "step": 7, "title": "Add sauce and finish", "desc": "Pour the sauce along the edge of the wok. Toss over high heat until it thickens and coats every piece. Add the peanuts at the very end, toss once, and plate immediately.", "indicator": "The sauce goes from thin to glossy and clings to the chicken rather than pooling at the bottom — this is called 'shōu zhī liàng qiàn' (收汁亮芡): the starch has fully gelatinized.", "tip": "Add peanuts last so they stay crunchy." }
     ],
     "principles": [
-      {
-        "title": "糊辣荔枝味型公式",
-        "content": "宫保系列的核心是「荔枝味」：以醋为主、糖次之、咸味打底，最终呈现酸甜微辣。记住比例口诀：醋:糖:酱油 ≈ 4:3:2。荔枝味不等于真的荔枝，而是指像荔枝一样酸甜清爽的风味层次。"
-      },
-      {
-        "title": "为什么鸡丁要上浆",
-        "content": "淀粉+蛋清（或水）上浆，会在鸡肉表面形成保护膜。高温炒制时，这层膜阻止鸡肉中的水分快速蒸发，从而保住嫩度。没有上浆的鸡肉下锅后蛋白质迅速收缩，水分大量流失，就会变柴变老。"
-      },
-      {
-        "title": "炝锅的原理",
-        "content": "干辣椒和花椒中的辣素（辣椒素）、麻素（花椒素）是脂溶性的，不溶于水。热油能把这些香味物质充分溶出，使整道菜带有辣麻底味，这是水煮或者后放辣椒永远无法复制的效果。"
-      }
+      { "title": "糊辣荔枝味型公式", "content": "宫保系列的核心是「荔枝味」：以醋为主、糖次之、咸味打底，最终呈现酸甜微辣。记住比例口诀：醋:糖:酱油 ≈ 4:3:2。荔枝味不等于真的荔枝，而是指像荔枝一样酸甜清爽的风味层次。" },
+      { "title": "为什么鸡丁要上浆", "content": "淀粉+蛋清（或水）上浆，会在鸡肉表面形成保护膜。高温炒制时，这层膜阻止鸡肉中的水分快速蒸发，从而保住嫩度。没有上浆的鸡肉下锅后蛋白质迅速收缩，水分大量流失，就会变柴变老。" },
+      { "title": "炝锅的原理", "content": "干辣椒和花椒中的辣素（辣椒素）、麻素（花椒素）是脂溶性的，不溶于水。热油能把这些香味物质充分溶出，使整道菜带有辣麻底味，这是水煮或者后放辣椒永远无法复制的效果。" }
+    ],
+    "principles_en": [
+      { "title": "The 'Lychee Spice' Flavor Formula", "content": "The heart of Kung Pao is the 'lychee' flavor profile: vinegar-forward, sweetened with sugar, and grounded with salt, producing a layered sour-sweet-mildly-spicy result. The ratio is vinegar:sugar:soy sauce ≈ 4:3:2. 'Lychee' here refers not to the fruit itself but to a bright, clean, sweet-sour quality — the same refreshing tartness you'd associate with the fruit." },
+      { "title": "Why Velveting Works", "content": "Coating the chicken in cornstarch and egg white (or water) creates a protective barrier around the muscle fibers. Under high heat, this film slows the escape of moisture, keeping the texture juicy and tender. Without velveting, the proteins contract rapidly and shed water — the result is dry, chewy chicken." },
+      { "title": "The Science of Qiāng Guō (炝锅)", "content": "Capsaicin (in dried chilies) and hydroxy-alpha-sanshool (in Sichuan peppercorns) are fat-soluble, not water-soluble. Hot oil efficiently draws these compounds out and distributes them throughout the dish — delivering heat and numbing aroma in a way that adding chilies to a water-based sauce simply cannot replicate." }
     ]
   },
   {
     "id": "hongshao-rou",
     "name": "红烧肉",
+    "name_en": "Red-Braised Pork Belly",
     "category": "家常菜",
+    "category_en": "Home-style",
     "flavor": "咸甜",
+    "flavor_en": "Sweet & Savory",
     "difficulty": 3,
     "time": 90,
     "serving": 4,
     "description": "入口即化，色泽红亮，肥而不腻的经典家常菜。",
+    "description_en": "Melt-in-your-mouth pork belly lacquered in a deep red glaze — rich but never greasy.",
     "tags": ["下饭", "解馋", "周末"],
+    "tags_en": ["Rice Pairing", "Comfort Food", "Weekend Cook"],
     "ingredients": [
-      { "name": "五花肉", "amount": 600, "unit": "g", "note": "选三层分明的" },
-      { "name": "生姜", "amount": 20, "unit": "g" },
-      { "name": "大葱", "amount": 30, "unit": "g" },
-      { "name": "八角", "amount": 2, "unit": "颗" },
-      { "name": "桂皮", "amount": 5, "unit": "g" },
-      { "name": "香叶", "amount": 2, "unit": "片" }
+      { "name": "五花肉", "name_en": "Pork belly", "amount": 600, "unit": "g", "note": "选三层分明的", "note_en": "Choose a piece with clear fat-lean layers" },
+      { "name": "生姜", "name_en": "Fresh ginger", "amount": 20, "unit": "g" },
+      { "name": "大葱", "name_en": "Scallions", "amount": 30, "unit": "g" },
+      { "name": "八角", "name_en": "Star anise", "amount": 2, "unit": "颗", "unit_en": "pcs" },
+      { "name": "桂皮", "name_en": "Cinnamon stick", "amount": 5, "unit": "g" },
+      { "name": "香叶", "name_en": "Bay leaves", "amount": 2, "unit": "片", "unit_en": "pcs" }
     ],
     "seasonings": [
-      { "name": "冰糖", "amount": 30, "unit": "g", "note": "炒糖色用" },
-      { "name": "生抽", "amount": 30, "unit": "ml" },
-      { "name": "老抽", "amount": 15, "unit": "ml", "note": "上色用" },
-      { "name": "料酒", "amount": 30, "unit": "ml" },
-      { "name": "盐", "amount": 3, "unit": "g" },
-      { "name": "食用油", "amount": 15, "unit": "ml" }
+      { "name": "冰糖", "name_en": "Rock sugar", "amount": 30, "unit": "g", "note": "炒糖色用", "note_en": "For caramelizing" },
+      { "name": "生抽", "name_en": "Light soy sauce", "amount": 30, "unit": "ml" },
+      { "name": "老抽", "name_en": "Dark soy sauce", "amount": 15, "unit": "ml", "note": "上色用", "note_en": "For color" },
+      { "name": "料酒", "name_en": "Shaoxing wine", "amount": 30, "unit": "ml" },
+      { "name": "盐", "name_en": "Salt", "amount": 3, "unit": "g" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 15, "unit": "ml" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "焯水去腥",
-        "desc": "五花肉切3cm方块，冷水下锅，加料酒10ml、姜片，大火煮开后撇去浮沫，煮3分钟捞出，温水冲洗干净。",
-        "indicator": "水面出现灰白色泡沫（血水和杂质），捞完浮沫后水变清澈，肉块表面变白。",
-        "tip": "必须冷水下锅，热水会使表面迅速封住导致内部血水出不来。"
-      },
-      {
-        "step": 2,
-        "title": "炒糖色",
-        "desc": "锅中放少量油，冰糖下锅，小火不停搅动，观察颜色变化。",
-        "indicator": "冰糖从固体融化→变成淡黄色液体→变成琥珀色→变成深棕红色，此时立刻下肉。颜色到「可乐色」就停，再深就苦了。",
-        "tip": "炒糖色是红烧菜色泽的灵魂。全程小火，一旦开始变色就很快，要精神集中不要离开灶台。"
-      },
-      {
-        "step": 3,
-        "title": "煸炒上色",
-        "desc": "迅速下入五花肉块，翻炒使每块肉都裹上糖色，约1分钟。",
-        "indicator": "肉块表面呈现均匀的红棕色光泽，发出滋滋声。"
-      },
-      {
-        "step": 4,
-        "title": "加调料和水",
-        "desc": "加入生抽、老抽、料酒，翻炒均匀，加入没过肉的热水（约500ml），放入葱、姜、八角、桂皮、香叶。",
-        "indicator": "汤汁颜色呈深棕红色，煮沸后转小火。",
-        "tip": "必须加热水或开水，冷水会使肉质变紧变柴，因为温度骤降会导致胶原蛋白收缩。"
-      },
-      {
-        "step": 5,
-        "title": "小火慢炖",
-        "desc": "大火烧开后转小火，加盖炖60分钟。",
-        "indicator": "中途可以用筷子戳一下，能轻松穿透但略有阻力说明还需要继续。完全无阻力且肉块微微颤抖说明胶原蛋白充分转化，接近完成。",
-        "tip": "小火是关键，大火会让汤汁快速蒸发、肉质收紧。胶原蛋白在85°C以上才能充分水解为明胶，这需要时间。"
-      },
-      {
-        "step": 6,
-        "title": "大火收汁",
-        "desc": "捞出葱姜和香料，转大火收汁，不停翻动防止糊底，至汤汁浓稠发亮。",
-        "indicator": "汤汁从稀汤变为浓稠的酱汁，挂在肉上有光泽，锅底汤汁流动变慢，约还剩1/4时出锅。",
-        "tip": "这一步叫「收汁亮油」，是红烧菜发亮好看的关键。"
-      }
+      { "step": 1, "title": "焯水去腥", "desc": "五花肉切3cm方块，冷水下锅，加料酒10ml、姜片，大火煮开后撇去浮沫，煮3分钟捞出，温水冲洗干净。", "indicator": "水面出现灰白色泡沫（血水和杂质），捞完浮沫后水变清澈，肉块表面变白。", "tip": "必须冷水下锅，热水会使表面迅速封住导致内部血水出不来。" },
+      { "step": 2, "title": "炒糖色", "desc": "锅中放少量油，冰糖下锅，小火不停搅动，观察颜色变化。", "indicator": "冰糖从固体融化→变成淡黄色液体→变成琥珀色→变成深棕红色，此时立刻下肉。颜色到「可乐色」就停，再深就苦了。", "tip": "炒糖色是红烧菜色泽的灵魂。全程小火，一旦开始变色就很快，要精神集中不要离开灶台。" },
+      { "step": 3, "title": "煸炒上色", "desc": "迅速下入五花肉块，翻炒使每块肉都裹上糖色，约1分钟。", "indicator": "肉块表面呈现均匀的红棕色光泽，发出滋滋声。" },
+      { "step": 4, "title": "加调料和水", "desc": "加入生抽、老抽、料酒，翻炒均匀，加入没过肉的热水（约500ml），放入葱、姜、八角、桂皮、香叶。", "indicator": "汤汁颜色呈深棕红色，煮沸后转小火。", "tip": "必须加热水或开水，冷水会使肉质变紧变柴，因为温度骤降会导致胶原蛋白收缩。" },
+      { "step": 5, "title": "小火慢炖", "desc": "大火烧开后转小火，加盖炖60分钟。", "indicator": "中途可以用筷子戳一下，能轻松穿透但略有阻力说明还需要继续。完全无阻力且肉块微微颤抖说明胶原蛋白充分转化，接近完成。", "tip": "小火是关键，大火会让汤汁快速蒸发、肉质收紧。胶原蛋白在85°C以上才能充分水解为明胶，这需要时间。" },
+      { "step": 6, "title": "大火收汁", "desc": "捞出葱姜和香料，转大火收汁，不停翻动防止糊底，至汤汁浓稠发亮。", "indicator": "汤汁从稀汤变为浓稠的酱汁，挂在肉上有光泽，锅底汤汁流动变慢，约还剩1/4时出锅。", "tip": "这一步叫「收汁亮油」，是红烧菜发亮好看的关键。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Blanch the pork", "desc": "Cut pork belly into 3cm cubes. Place in a pot of cold water with 10ml Shaoxing wine and a few ginger slices. Bring to a boil, skim off the grey foam, cook 3 minutes, then drain and rinse with warm water.", "indicator": "Grey-white foam rises to the surface (blood and impurities). Once skimmed, the water should turn mostly clear and the pork surfaces will be white.", "tip": "Always start with cold water — hot water seals the surface immediately, trapping the impurities inside." },
+      { "step": 2, "title": "Caramelize the sugar", "desc": "Add a little oil and the rock sugar to the wok over low heat. Stir constantly and watch closely.", "indicator": "The sugar goes: solid → pale yellow liquid → amber → deep reddish-brown. Add the pork the moment it hits 'cola color'. Any darker and it turns bitter.", "tip": "Caramelized sugar is what gives red-braised dishes their color and depth. Keep the heat low — once color starts changing, it moves fast. Don't walk away." },
+      { "step": 3, "title": "Coat the pork", "desc": "Quickly add the pork pieces and stir-fry for about 1 minute until every piece is coated in the caramel.", "indicator": "Each cube should have an even reddish-brown sheen and sizzle as it hits the pan." },
+      { "step": 4, "title": "Add liquids and spices", "desc": "Add light soy sauce, dark soy sauce, and Shaoxing wine. Toss to coat. Pour in enough hot water to just cover the pork (about 500ml). Add the scallions, ginger, star anise, cinnamon, and bay leaves.", "indicator": "The braising liquid should be a deep reddish-brown. Bring to a boil, then reduce to low.", "tip": "Always add hot or boiling water — cold water causes the collagen to seize up and tighten, toughening the meat." },
+      { "step": 5, "title": "Braise low and slow", "desc": "Once boiling, reduce to low heat, cover, and braise for 60 minutes.", "indicator": "Partway through, test a piece with a chopstick. Slight resistance means it needs more time. When the chopstick goes in with no resistance and the pieces jiggle like jelly, the collagen has fully converted — you're nearly done.", "tip": "Low heat is non-negotiable. High heat evaporates the liquid and tightens the meat. Collagen only converts to gelatin above 85°C, and that transformation takes time." },
+      { "step": 6, "title": "Reduce the glaze", "desc": "Remove the aromatics. Turn to high heat and reduce, stirring constantly to prevent burning, until the sauce is thick and lacquer-glossy.", "indicator": "The sauce goes from thin broth to a thick, clingy glaze. When it coats the meat with a sheen and the last quarter of liquid is left in the pan, it's done.", "tip": "This final reduction — called 'shōu zhī liàng yóu' (收汁亮油) — is what makes the dish look stunning." }
     ],
     "principles": [
-      {
-        "title": "为什么要炒糖色",
-        "content": "糖在高温下发生美拉德反应和焦糖化反应，生成数百种芳香物质，颜色从黄变棕变红。这赋予红烧肉独特的焦香味和红亮色泽，是老抽无法完全复制的。冰糖比白糖更适合，因为其中的葡萄糖和果糖焦糖化温度更低，颜色更红亮。"
-      },
-      {
-        "title": "肥而不腻的秘密",
-        "content": "五花肉中的肥肉主要是甘油三酯，长时间加热后，一部分脂肪会溶出到汤汁中（就是表面漂浮的油）。更重要的是，结缔组织中的胶原蛋白（白色筋膜）在长时间加热下水解为明胶，使口感从「油腻」变为「软糯」。这需要85°C以上保持至少1小时，这就是为什么小火慢炖不可取代。"
-      },
-      {
-        "title": "焯水的意义",
-        "content": "肉中的肌红蛋白、血液和部分脂肪氧化物是腥膻味的来源。冷水焯能让这些物质随温度慢慢升高而逐渐渗出，比热水焯效果好得多。撇去的灰白色浮沫，就是这些凝固的蛋白质和杂质。"
-      }
+      { "title": "为什么要炒糖色", "content": "糖在高温下发生美拉德反应和焦糖化反应，生成数百种芳香物质，颜色从黄变棕变红。这赋予红烧肉独特的焦香味和红亮色泽，是老抽无法完全复制的。冰糖比白糖更适合，因为其中的葡萄糖和果糖焦糖化温度更低，颜色更红亮。" },
+      { "title": "肥而不腻的秘密", "content": "五花肉中的肥肉主要是甘油三酯，长时间加热后，一部分脂肪会溶出到汤汁中（就是表面漂浮的油）。更重要的是，结缔组织中的胶原蛋白（白色筋膜）在长时间加热下水解为明胶，使口感从「油腻」变为「软糯」。这需要85°C以上保持至少1小时，这就是为什么小火慢炖不可取代。" },
+      { "title": "焯水的意义", "content": "肉中的肌红蛋白、血液和部分脂肪氧化物是腥膻味的来源。冷水焯能让这些物质随温度慢慢升高而逐渐渗出，比热水焯效果好得多。撇去的灰白色浮沫，就是这些凝固的蛋白质和杂质。" }
+    ],
+    "principles_en": [
+      { "title": "Why Caramelize Sugar Instead of Using Dark Soy Sauce", "content": "At high temperatures, sugar undergoes both Maillard reactions and caramelization, generating hundreds of aromatic compounds and shifting from yellow to deep reddish-brown. This gives red-braised pork its distinctive caramel depth and lacquered color — something dark soy sauce alone can't fully replicate. Rock sugar outperforms white sugar here: its mix of glucose and fructose caramelizes at a lower temperature, producing a more vivid red-amber tone." },
+      { "title": "The Secret to 'Rich but Not Greasy'", "content": "The fat in pork belly is primarily triglycerides. During long cooking, some fat renders into the braising liquid (visible as surface oil). More importantly, the collagen in the connective tissue (the white gelatinous strands) hydrolyzes into gelatin over prolonged heat — transforming the mouthfeel from 'greasy' to 'silky and yielding.' This conversion requires sustained temperatures above 85°C for at least an hour, which is why low-and-slow braising is irreplaceable." },
+      { "title": "Why Blanch First", "content": "Myoglobin, blood, and oxidized fats are the main sources of that raw, gamey pork smell. Starting in cold water lets these compounds gradually leach out as the temperature rises — far more effective than hot water, which seals the surface immediately. The grey-white foam you skim off is these coagulated proteins and impurities." }
     ]
   },
   {
     "id": "xihongshi-chaodan",
     "name": "西红柿炒鸡蛋",
+    "name_en": "Tomato and Egg Stir-Fry",
     "category": "家常菜",
+    "category_en": "Home-style",
     "flavor": "酸甜咸鲜",
+    "flavor_en": "Sweet-Sour & Savory",
     "difficulty": 1,
     "time": 10,
     "serving": 2,
     "description": "最经典的中国家常菜，看似简单却暗藏技巧。",
+    "description_en": "China's most iconic everyday dish — deceptively simple, but technique makes all the difference.",
     "tags": ["快手", "入门", "下饭"],
+    "tags_en": ["Quick", "Beginner", "Rice Pairing"],
     "ingredients": [
-      { "name": "西红柿", "amount": 300, "unit": "g", "note": "约2个中等大小" },
-      { "name": "鸡蛋", "amount": 3, "unit": "个" }
+      { "name": "西红柿", "name_en": "Tomatoes", "amount": 300, "unit": "g", "note": "约2个中等大小", "note_en": "About 2 medium tomatoes" },
+      { "name": "鸡蛋", "name_en": "Eggs", "amount": 3, "unit": "个", "unit_en": "pcs" }
     ],
     "seasonings": [
-      { "name": "盐", "amount": 3, "unit": "g" },
-      { "name": "白糖", "amount": 5, "unit": "g", "note": "去酸提鲜" },
-      { "name": "番茄酱", "amount": 10, "unit": "g", "note": "可选，加深色泽" },
-      { "name": "食用油", "amount": 25, "unit": "ml" },
-      { "name": "葱花", "amount": 10, "unit": "g" }
+      { "name": "盐", "name_en": "Salt", "amount": 3, "unit": "g" },
+      { "name": "白糖", "name_en": "Sugar", "amount": 5, "unit": "g", "note": "去酸提鲜", "note_en": "Balances the acidity" },
+      { "name": "番茄酱", "name_en": "Tomato paste", "amount": 10, "unit": "g", "note": "可选，加深色泽", "note_en": "Optional, deepens color" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 25, "unit": "ml" },
+      { "name": "葱花", "name_en": "Scallions, chopped", "amount": 10, "unit": "g" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "备料",
-        "desc": "西红柿去皮切块（或切角）；鸡蛋打散，加盐1g和少许料酒搅匀。",
-        "indicator": "蛋液搅匀后颜色均一，蛋清和蛋黄完全融合，出现细小气泡。",
-        "tip": "西红柿去皮技巧：顶部划十字，开水烫30秒，皮会自动卷起来。"
-      },
-      {
-        "step": 2,
-        "title": "炒鸡蛋",
-        "desc": "锅烧热，下油（多一点），油热后倒入蛋液，大火快速翻炒，蛋液半凝固时立刻出锅备用。",
-        "indicator": "蛋液下锅后迅速膨胀起泡，快速翻动后蛋块呈嫩黄色、外硬内软、还有流动感时就要出锅——不要等到完全凝固。",
-        "tip": "鸡蛋要「炒嫩」而不是「炒熟」，余温和后续加热还会继续。油多蛋嫩这是铁律。"
-      },
-      {
-        "step": 3,
-        "title": "炒西红柿",
-        "desc": "原锅留底油，下葱花爆香，放入西红柿大火翻炒，加盐2g、白糖，炒至西红柿出汁软烂。",
-        "indicator": "西红柿从硬变软，开始出汤汁，颜色变深，锅里有明显的红色汤汁——这说明细胞壁破裂，茄红素充分释放。",
-        "tip": "白糖能提鲜去酸，使番茄味更圆润，不会吃出甜味。"
-      },
-      {
-        "step": 4,
-        "title": "合炒收尾",
-        "desc": "倒回鸡蛋，大火翻炒均匀，尝味调整，出锅。",
-        "indicator": "鸡蛋和西红柿汤汁融合，汤汁不稀不稠，鸡蛋裹上红色汤汁，整体颜色红亮。",
-        "tip": "最后尝一下，根据个人口味补盐或糖。"
-      }
+      { "step": 1, "title": "备料", "desc": "西红柿去皮切块（或切角）；鸡蛋打散，加盐1g和少许料酒搅匀。", "indicator": "蛋液搅匀后颜色均一，蛋清和蛋黄完全融合，出现细小气泡。", "tip": "西红柿去皮技巧：顶部划十字，开水烫30秒，皮会自动卷起来。" },
+      { "step": 2, "title": "炒鸡蛋", "desc": "锅烧热，下油（多一点），油热后倒入蛋液，大火快速翻炒，蛋液半凝固时立刻出锅备用。", "indicator": "蛋液下锅后迅速膨胀起泡，快速翻动后蛋块呈嫩黄色、外硬内软、还有流动感时就要出锅——不要等到完全凝固。", "tip": "鸡蛋要「炒嫩」而不是「炒熟」，余温和后续加热还会继续。油多蛋嫩这是铁律。" },
+      { "step": 3, "title": "炒西红柿", "desc": "原锅留底油，下葱花爆香，放入西红柿大火翻炒，加盐2g、白糖，炒至西红柿出汁软烂。", "indicator": "西红柿从硬变软，开始出汤汁，颜色变深，锅里有明显的红色汤汁——这说明细胞壁破裂，茄红素充分释放。", "tip": "白糖能提鲜去酸，使番茄味更圆润，不会吃出甜味。" },
+      { "step": 4, "title": "合炒收尾", "desc": "倒回鸡蛋，大火翻炒均匀，尝味调整，出锅。", "indicator": "鸡蛋和西红柿汤汁融合，汤汁不稀不稠，鸡蛋裹上红色汤汁，整体颜色红亮。", "tip": "最后尝一下，根据个人口味补盐或糖。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Prep", "desc": "Peel and cut tomatoes into wedges or chunks. Beat the eggs with 1g salt and a splash of Shaoxing wine.", "indicator": "The beaten eggs should be fully uniform in color — yolk and white completely blended — with small bubbles on the surface.", "tip": "Easy tomato peeling: score an X on the top, dip in boiling water for 30 seconds, and the skin peels itself." },
+      { "step": 2, "title": "Cook the eggs", "desc": "Heat the wok and add more oil than feels comfortable. Once the oil is hot, pour in the eggs and stir-fry quickly over high heat. Pull the eggs out the moment they're half-set.", "indicator": "The eggs should puff up immediately in the hot oil. When they're soft-scrambled — golden yellow, firm on the outside but still flowing slightly — take them out. Don't wait for them to fully set.", "tip": "The goal is 'tender-cooked,' not 'fully cooked.' Residual heat and a second round in the pan will finish them. More oil = more tender eggs — this is non-negotiable." },
+      { "step": 3, "title": "Cook the tomatoes", "desc": "Leave a little oil in the wok, add the scallions and let them sizzle, then add the tomatoes. Stir-fry over high heat. Add 2g salt and the sugar, and cook until the tomatoes are soft and juicy.", "indicator": "The tomatoes go from firm to soft, releasing their juice and deepening in color. You should see a pool of red liquid in the wok — that means the cell walls have broken and the flavor is out.", "tip": "Sugar rounds out the tomato's acidity and amplifies its savory depth — you won't taste sweetness, just a rounder flavor." },
+      { "step": 4, "title": "Combine and finish", "desc": "Return the eggs to the wok. Toss everything over high heat until combined. Taste and adjust seasoning, then plate.", "indicator": "The eggs should be coated in the red tomato juice, the sauce neither too thin nor too thick. The overall color should be vivid and glossy.", "tip": "Do a final taste — adjust with more salt or a pinch more sugar depending on your tomatoes." }
     ],
     "principles": [
-      {
-        "title": "为什么油多蛋才嫩",
-        "content": "鸡蛋蛋白质在60-70°C开始凝固，温度越高越硬。大量热油能使蛋液迅速受热膨胀，同时油脂包裹在蛋白质周围起到润滑作用，阻止蛋白质过度交联，从而保持嫩滑。油少则蛋液受热不均，蛋白质局部过热收缩，就会变老变干。"
-      },
-      {
-        "title": "西红柿放盐的时机",
-        "content": "盐的渗透压作用能加速西红柿细胞脱水，帮助更快出汤。但如果盐放太早，水分过多流失反而会让炒出来的西红柿太碎。所以炒至微软再加盐是最好的时机。"
-      },
-      {
-        "title": "茄红素与烹饪",
-        "content": "西红柿中的茄红素是脂溶性的，生吃西红柿茄红素吸收率只有约4%，但炒熟后加油能使吸收率提升到约26%。所以炒西红柿的营养价值比生吃高得多。加热和油脂是关键。"
-      }
+      { "title": "为什么油多蛋才嫩", "content": "鸡蛋蛋白质在60-70°C开始凝固，温度越高越硬。大量热油能使蛋液迅速受热膨胀，同时油脂包裹在蛋白质周围起到润滑作用，阻止蛋白质过度交联，从而保持嫩滑。油少则蛋液受热不均，蛋白质局部过热收缩，就会变老变干。" },
+      { "title": "西红柿放盐的时机", "content": "盐的渗透压作用能加速西红柿细胞脱水，帮助更快出汤。但如果盐放太早，水分过多流失反而会让炒出来的西红柿太碎。所以炒至微软再加盐是最好的时机。" },
+      { "title": "茄红素与烹饪", "content": "西红柿中的茄红素是脂溶性的，生吃西红柿茄红素吸收率只有约4%，但炒熟后加油能使吸收率提升到约26%。所以炒西红柿的营养价值比生吃高得多。加热和油脂是关键。" }
+    ],
+    "principles_en": [
+      { "title": "Why More Oil Means More Tender Eggs", "content": "Egg proteins begin to set at around 60–70°C and become progressively harder as the temperature rises. A generous amount of hot oil heats the egg rapidly and evenly, while the fat molecules coat the proteins and physically prevent them from over-bonding. With too little oil, the egg sets unevenly — some parts overheat and contract while others are still raw — producing a rubbery, dry result." },
+      { "title": "When to Add Salt to the Tomatoes", "content": "Salt draws water out of tomato cells through osmosis, accelerating juice release. Add it too early and the tomatoes lose too much water before they've softened, leaving them broken and mushy. Adding salt once the tomatoes have softened slightly gives you control — enough juice without falling apart." },
+      { "title": "Lycopene and Cooking", "content": "Tomatoes contain lycopene, a fat-soluble antioxidant. When eaten raw, lycopene absorption is only about 4%. Cooked with oil, absorption rises to around 26% — making stir-fried tomatoes significantly more nutritious than raw ones. Heat breaks down the cell walls that trap lycopene, and oil helps transport it into the body." }
     ]
   },
   {
     "id": "mapo-doufu",
     "name": "麻婆豆腐",
+    "name_en": "Mapo Tofu",
     "category": "川菜",
+    "category_en": "Sichuan",
     "flavor": "麻辣鲜香",
+    "flavor_en": "Numbing-Spicy",
     "difficulty": 2,
     "time": 20,
     "serving": 3,
     "description": "麻辣烫嫩，豆腐入味，是川菜中最广为人知的素（半素）菜之一。",
+    "description_en": "Silky tofu in a fiery, numbing sauce — one of Sichuan's most globally recognized dishes.",
     "tags": ["辣", "麻", "下饭"],
+    "tags_en": ["Spicy", "Numbing", "Rice Pairing"],
     "ingredients": [
-      { "name": "嫩豆腐", "amount": 400, "unit": "g", "note": "内酯豆腐或嫩豆腐，勿用老豆腐" },
-      { "name": "猪肉末", "amount": 80, "unit": "g", "note": "可省略做素版" },
-      { "name": "大葱", "amount": 20, "unit": "g" },
-      { "name": "大蒜", "amount": 15, "unit": "g" },
-      { "name": "生姜", "amount": 10, "unit": "g" }
+      { "name": "嫩豆腐", "name_en": "Soft tofu", "amount": 400, "unit": "g", "note": "内酯豆腐或嫩豆腐，勿用老豆腐", "note_en": "Silken or soft tofu — not firm tofu" },
+      { "name": "猪肉末", "name_en": "Ground pork", "amount": 80, "unit": "g", "note": "可省略做素版", "note_en": "Omit for a vegetarian version" },
+      { "name": "大葱", "name_en": "Scallions", "amount": 20, "unit": "g" },
+      { "name": "大蒜", "name_en": "Garlic", "amount": 15, "unit": "g" },
+      { "name": "生姜", "name_en": "Fresh ginger", "amount": 10, "unit": "g" }
     ],
     "seasonings": [
-      { "name": "豆瓣酱", "amount": 30, "unit": "g", "note": "郫县豆瓣酱最佳" },
-      { "name": "花椒粉", "amount": 2, "unit": "g", "note": "出锅撒" },
-      { "name": "生抽", "amount": 10, "unit": "ml" },
-      { "name": "淀粉", "amount": 8, "unit": "g", "note": "勾芡用" },
-      { "name": "盐", "amount": 2, "unit": "g" },
-      { "name": "食用油", "amount": 20, "unit": "ml" }
+      { "name": "豆瓣酱", "name_en": "Doubanjiang (spicy bean paste)", "amount": 30, "unit": "g", "note": "郫县豆瓣酱最佳", "note_en": "Pixian brand preferred" },
+      { "name": "花椒粉", "name_en": "Sichuan pepper powder", "amount": 2, "unit": "g", "note": "出锅撒", "note_en": "Sprinkle at the end" },
+      { "name": "生抽", "name_en": "Light soy sauce", "amount": 10, "unit": "ml" },
+      { "name": "淀粉", "name_en": "Cornstarch", "amount": 8, "unit": "g", "note": "勾芡用", "note_en": "For thickening" },
+      { "name": "盐", "name_en": "Salt", "amount": 2, "unit": "g" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 20, "unit": "ml" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "豆腐焯水",
-        "desc": "豆腐切2cm方块，放入加盐的沸水中焯1分钟，捞出控水备用。",
-        "indicator": "豆腐下锅后浮起，表面微微收紧、不粘锅，说明已焯好。",
-        "tip": "焯水能去除豆腥味，同时让豆腐结构更紧实，后续烹饪时不容易碎。"
-      },
-      {
-        "step": 2,
-        "title": "炒香底料",
-        "desc": "热锅冷油，下肉末炒散至变色，推到一边，下豆瓣酱小火慢炒2分钟，再加姜蒜末炒香。",
-        "indicator": "豆瓣酱从暗红色变为鲜亮的红色，油被「染」成红色，飘出浓郁香辣气味——这叫「炒出红油」，是麻婆豆腐底味的来源。",
-        "tip": "豆瓣酱要小火慢炒，才能充分激发香味。火太大容易焦糊，失去香味只剩苦味。"
-      },
-      {
-        "step": 3,
-        "title": "加水炖豆腐",
-        "desc": "加入适量热水（约200ml），放入豆腐块，轻轻推动（不要翻炒），加生抽，中火炖3分钟。",
-        "indicator": "汤汁变成橙红色，豆腐开始吸色变红，轻推豆腐时有弹性感。",
-        "tip": "用「推」而不是「炒」，避免豆腐碎。铲子从锅边沿着锅底划过，让豆腐整块移动。"
-      },
-      {
-        "step": 4,
-        "title": "勾芡",
-        "desc": "水淀粉（淀粉+水1:2）分两次倒入，轻推，中火收汁至汤汁浓稠。",
-        "indicator": "汤汁从稀变稠，从透明变为半透明，挂在豆腐上不会立刻流下来——这说明淀粉充分糊化。勾芡要分次加，宁少勿多。",
-        "tip": "分两次勾芡是为了控制浓度，一次倒多了就太稠。"
-      },
-      {
-        "step": 5,
-        "title": "出锅撒料",
-        "desc": "出锅前撒葱花，盛盘后撒花椒粉。",
-        "indicator": "成品应是红亮的汤汁裹住白嫩豆腐，上面点缀翠绿葱花，视觉上「麻辣烫嫩」。",
-        "tip": "花椒粉要最后撒，加热会使香味挥发。"
-      }
+      { "step": 1, "title": "豆腐焯水", "desc": "豆腐切2cm方块，放入加盐的沸水中焯1分钟，捞出控水备用。", "indicator": "豆腐下锅后浮起，表面微微收紧、不粘锅，说明已焯好。", "tip": "焯水能去除豆腥味，同时让豆腐结构更紧实，后续烹饪时不容易碎。" },
+      { "step": 2, "title": "炒香底料", "desc": "热锅冷油，下肉末炒散至变色，推到一边，下豆瓣酱小火慢炒2分钟，再加姜蒜末炒香。", "indicator": "豆瓣酱从暗红色变为鲜亮的红色，油被「染」成红色，飘出浓郁香辣气味——这叫「炒出红油」，是麻婆豆腐底味的来源。", "tip": "豆瓣酱要小火慢炒，才能充分激发香味。火太大容易焦糊，失去香味只剩苦味。" },
+      { "step": 3, "title": "加水炖豆腐", "desc": "加入适量热水（约200ml），放入豆腐块，轻轻推动（不要翻炒），加生抽，中火炖3分钟。", "indicator": "汤汁变成橙红色，豆腐开始吸色变红，轻推豆腐时有弹性感。", "tip": "用「推」而不是「炒」，避免豆腐碎。铲子从锅边沿着锅底划过，让豆腐整块移动。" },
+      { "step": 4, "title": "勾芡", "desc": "水淀粉（淀粉+水1:2）分两次倒入，轻推，中火收汁至汤汁浓稠。", "indicator": "汤汁从稀变稠，从透明变为半透明，挂在豆腐上不会立刻流下来——这说明淀粉充分糊化。勾芡要分次加，宁少勿多。", "tip": "分两次勾芡是为了控制浓度，一次倒多了就太稠。" },
+      { "step": 5, "title": "出锅撒料", "desc": "出锅前撒葱花，盛盘后撒花椒粉。", "indicator": "成品应是红亮的汤汁裹住白嫩豆腐，上面点缀翠绿葱花，视觉上「麻辣烫嫩」。", "tip": "花椒粉要最后撒，加热会使香味挥发。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Blanch the tofu", "desc": "Cut tofu into 2cm cubes. Blanch in salted boiling water for 1 minute, then drain.", "indicator": "The tofu cubes will float and the surfaces will firm up slightly — that's enough.", "tip": "Blanching removes the raw bean smell and slightly firms the structure so the tofu holds up better during cooking." },
+      { "step": 2, "title": "Build the base", "desc": "Heat oil in the wok, add ground pork and stir-fry until it changes color. Push to the side. Add doubanjiang and stir over low heat for 2 minutes. Then add minced ginger and garlic and cook until fragrant.", "indicator": "The doubanjiang shifts from dark red to a vivid, glossy red-orange, and the oil turns red too — this is called 'frying out the red oil' (炒出红油). It's the flavor foundation of the dish.", "tip": "Low heat is critical for the doubanjiang. High heat burns it immediately, leaving bitterness instead of aroma." },
+      { "step": 3, "title": "Simmer the tofu", "desc": "Add about 200ml of hot water. Gently slide in the tofu (don't stir-fry it). Add light soy sauce. Simmer over medium heat for 3 minutes.", "indicator": "The broth turns orange-red, and the tofu begins absorbing color. When you gently nudge a piece with a spoon, it should feel springy.", "tip": "Use a 'push' motion rather than stirring — slide the spatula along the bottom of the wok so the tofu moves as a whole without breaking." },
+      { "step": 4, "title": "Thicken with starch", "desc": "Mix cornstarch with water (1:2 ratio) and add it in two additions, gently pushing the tofu between each. Simmer over medium heat until the sauce thickens.", "indicator": "The sauce goes from translucent-thin to a semi-transparent glaze that clings to the tofu instead of immediately running off. Add the starch slowly — you can always add more, but you can't thin it back.", "tip": "Two additions give you control. Pour all at once and the sauce can turn gluey." },
+      { "step": 5, "title": "Finish and plate", "desc": "Scatter chopped scallions over the top before removing from heat. Once plated, sprinkle Sichuan pepper powder over everything.", "indicator": "The finished dish should have a glossy red sauce clinging to ivory tofu, dotted with green scallions — visually: 'numbing, spicy, hot, silky.'", "tip": "Sichuan pepper powder is added last — heat causes its volatile aromatic compounds to evaporate." }
     ],
     "principles": [
-      {
-        "title": "麻婆豆腐的「七字诀」",
-        "content": "正宗麻婆豆腐有七字评价标准：麻（花椒）、辣（豆瓣）、烫（温度高）、嫩（豆腐质地）、酥（肉末）、香（综合香气）、鲜（底味）。缺少任何一项都不完整。"
-      },
-      {
-        "title": "豆瓣酱炒出红油的原理",
-        "content": "郫县豆瓣酱中的辣椒素和红色素（辣椒红素）都是脂溶性的。在油脂中小火慢炒，这些色素和香味物质会充分溶入油中，使油变红变香。水无法溶解这些物质，所以加水之前必须先把红油炒出来。"
-      },
-      {
-        "title": "勾芡的作用",
-        "content": "淀粉糊化后包裹在食材表面，有三个作用：1）保温——减少热量散失，让菜更「烫」；2）入味——淀粉层帮助调料更好地附着在食材上；3）提亮——糊化的淀粉使菜肴表面出现光泽。这就是为什么川菜和中式炒菜大量使用勾芡。"
-      }
+      { "title": "麻婆豆腐的「七字诀」", "content": "正宗麻婆豆腐有七字评价标准：麻（花椒）、辣（豆瓣）、烫（温度高）、嫩（豆腐质地）、酥（肉末）、香（综合香气）、鲜（底味）。缺少任何一项都不完整。" },
+      { "title": "豆瓣酱炒出红油的原理", "content": "郫县豆瓣酱中的辣椒素和红色素（辣椒红素）都是脂溶性的。在油脂中小火慢炒，这些色素和香味物质会充分溶入油中，使油变红变香。水无法溶解这些物质，所以加水之前必须先把红油炒出来。" },
+      { "title": "勾芡的作用", "content": "淀粉糊化后包裹在食材表面，有三个作用：1）保温——减少热量散失，让菜更「烫」；2）入味——淀粉层帮助调料更好地附着在食材上；3）提亮——糊化的淀粉使菜肴表面出现光泽。这就是为什么川菜和中式炒菜大量使用勾芡。" }
+    ],
+    "principles_en": [
+      { "title": "The Seven-Word Standard for Mapo Tofu", "content": "Traditional Mapo Tofu is judged by seven qualities: 麻 (numbing from Sichuan pepper), 辣 (spicy from doubanjiang), 烫 (piping hot), 嫩 (silky soft tofu), 酥 (crispy ground pork), 香 (complex aroma), 鲜 (savory depth). Any missing quality and the dish is incomplete." },
+      { "title": "Why You Must Fry Out the Red Oil", "content": "The capsaicin and red pigments (capsanthin) in Pixian doubanjiang are fat-soluble — they dissolve in oil, not water. Slow-frying the paste in oil extracts these compounds and suffuses the entire oil with heat, color, and aroma. If you add water first and then the doubanjiang, you never achieve this — the flavor stays locked in the paste." },
+      { "title": "What Starch Thickening Actually Does", "content": "Gelatinized starch coating food surfaces achieves three things: 1) Insulation — it slows heat loss, keeping the dish hotter at the table. 2) Flavor adhesion — the starchy coating helps seasoning cling to the food instead of dripping off. 3) Gloss — gelatinized starch creates a glossy sheen. This is why starch thickening is ubiquitous in Chinese stir-frying." }
     ]
   },
   {
     "id": "tangcu-liji",
     "name": "糖醋里脊",
+    "name_en": "Sweet and Sour Pork Tenderloin",
     "category": "家常菜",
+    "category_en": "Home-style",
     "flavor": "糖醋味",
+    "flavor_en": "Sweet & Sour",
     "difficulty": 2,
     "time": 30,
     "serving": 3,
     "description": "外酥里嫩，酸甜开胃，是最受欢迎的下饭菜之一。",
+    "description_en": "Crispy on the outside, tender within, glazed in a bright sweet-sour sauce.",
     "tags": ["酸甜", "解馋", "下饭"],
+    "tags_en": ["Sweet-Sour", "Comfort Food", "Rice Pairing"],
     "ingredients": [
-      { "name": "猪里脊肉", "amount": 300, "unit": "g", "note": "切条，顺纹切" },
-      { "name": "鸡蛋", "amount": 1, "unit": "个", "note": "取蛋黄" }
+      { "name": "猪里脊肉", "name_en": "Pork tenderloin", "amount": 300, "unit": "g", "note": "切条，顺纹切", "note_en": "Cut into strips along the grain" },
+      { "name": "鸡蛋", "name_en": "Egg", "amount": 1, "unit": "个", "unit_en": "pc", "note": "取蛋黄", "note_en": "Yolk only" }
     ],
     "seasonings": [
-      { "name": "淀粉", "amount": 40, "unit": "g", "note": "挂糊用" },
-      { "name": "面粉", "amount": 20, "unit": "g", "note": "与淀粉混合" },
-      { "name": "白糖", "amount": 40, "unit": "g" },
-      { "name": "醋", "amount": 35, "unit": "ml", "note": "陈醋或香醋" },
-      { "name": "番茄酱", "amount": 20, "unit": "g", "note": "增色增香" },
-      { "name": "生抽", "amount": 10, "unit": "ml" },
-      { "name": "盐", "amount": 2, "unit": "g" },
-      { "name": "料酒", "amount": 10, "unit": "ml" },
-      { "name": "食用油", "amount": 500, "unit": "ml", "note": "炸油，可反复用" }
+      { "name": "淀粉", "name_en": "Cornstarch", "amount": 40, "unit": "g", "note": "挂糊用", "note_en": "For the batter" },
+      { "name": "面粉", "name_en": "All-purpose flour", "amount": 20, "unit": "g", "note": "与淀粉混合", "note_en": "Mixed with cornstarch" },
+      { "name": "白糖", "name_en": "Sugar", "amount": 40, "unit": "g" },
+      { "name": "醋", "name_en": "Chinese black vinegar", "amount": 35, "unit": "ml", "note": "陈醋或香醋", "note_en": "Aged or aromatic vinegar" },
+      { "name": "番茄酱", "name_en": "Tomato paste", "amount": 20, "unit": "g", "note": "增色增香", "note_en": "Adds color and depth" },
+      { "name": "生抽", "name_en": "Light soy sauce", "amount": 10, "unit": "ml" },
+      { "name": "盐", "name_en": "Salt", "amount": 2, "unit": "g" },
+      { "name": "料酒", "name_en": "Shaoxing wine", "amount": 10, "unit": "ml" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 500, "unit": "ml", "note": "炸油，可反复用", "note_en": "For frying, reusable" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "腌制里脊",
-        "desc": "里脊切1cm粗条，加盐、料酒、少许淀粉抓匀，腌10分钟。",
-        "indicator": "肉条表面微湿，略有黏性，颜色仍为粉红色。",
-        "tip": "顺着肌肉纹理切条，炸出来才不会散。"
-      },
-      {
-        "step": 2,
-        "title": "调糊挂浆",
-        "desc": "淀粉、面粉、蛋黄加适量水（约30ml）调成稠糊，将肉条放入裹匀。",
-        "indicator": "糊的稠度：提起肉条，糊缓慢流下但不会立刻滴完，像蜂蜜状。太稀挂不住，太稠口感硬。"
-      },
-      {
-        "step": 3,
-        "title": "初炸定型",
-        "desc": "油温约160°C，逐条放入肉条，中火炸约3分钟至定型捞出。",
-        "indicator": "肉条表面变硬、颜色浅黄，用筷子夹起有硬挺感——此时还没炸透，不要追求颜色深。",
-        "tip": "逐条放入是防止粘连。油温可用筷子测试：插入木筷，周围冒细密小泡说明约160°C。"
-      },
-      {
-        "step": 4,
-        "title": "复炸酥脆",
-        "desc": "油温升至190°C，将初炸好的肉条全部倒入，大火炸30-45秒至金黄捞出。",
-        "indicator": "颜色变为深金黄色，表面出现细密气泡减少，用筷子敲击有清脆声——这说明外皮充分脱水，酥脆度形成。",
-        "tip": "复炸是「外酥」的关键。两次炸法：第一次熟透，第二次高温让外皮迅速脱水变脆。"
-      },
-      {
-        "step": 5,
-        "title": "调糖醋汁",
-        "desc": "另起锅，加少量油，下番茄酱炒香，加糖、醋、生抽和50ml水，煮至冒泡浓稠。",
-        "indicator": "汁水从稀变稠，用勺子舀起缓慢流下，颜色红亮，尝起来酸甜平衡（糖:醋≈1:0.9）。",
-        "tip": "糖醋比例口诀：糖略多于醋。番茄酱先炒去生味，才有成熟的番茄香。"
-      },
-      {
-        "step": 6,
-        "title": "裹汁出锅",
-        "desc": "倒入炸好的肉条，快速翻炒让每条裹匀糖醋汁，立刻出锅。",
-        "indicator": "每根肉条都裹上红亮的糖醋汁，整体有光泽感。要快，裹好就出锅，久了外皮会吸水变软。",
-        "tip": "从裹汁到上桌要快，脆度损失最小。"
-      }
+      { "step": 1, "title": "腌制里脊", "desc": "里脊切1cm粗条，加盐、料酒、少许淀粉抓匀，腌10分钟。", "indicator": "肉条表面微湿，略有黏性，颜色仍为粉红色。", "tip": "顺着肌肉纹理切条，炸出来才不会散。" },
+      { "step": 2, "title": "调糊挂浆", "desc": "淀粉、面粉、蛋黄加适量水（约30ml）调成稠糊，将肉条放入裹匀。", "indicator": "糊的稠度：提起肉条，糊缓慢流下但不会立刻滴完，像蜂蜜状。太稀挂不住，太稠口感硬。" },
+      { "step": 3, "title": "初炸定型", "desc": "油温约160°C，逐条放入肉条，中火炸约3分钟至定型捞出。", "indicator": "肉条表面变硬、颜色浅黄，用筷子夹起有硬挺感——此时还没炸透，不要追求颜色深。", "tip": "逐条放入是防止粘连。油温可用筷子测试：插入木筷，周围冒细密小泡说明约160°C。" },
+      { "step": 4, "title": "复炸酥脆", "desc": "油温升至190°C，将初炸好的肉条全部倒入，大火炸30-45秒至金黄捞出。", "indicator": "颜色变为深金黄色，表面出现细密气泡减少，用筷子敲击有清脆声——这说明外皮充分脱水，酥脆度形成。", "tip": "复炸是「外酥」的关键。两次炸法：第一次熟透，第二次高温让外皮迅速脱水变脆。" },
+      { "step": 5, "title": "调糖醋汁", "desc": "另起锅，加少量油，下番茄酱炒香，加糖、醋、生抽和50ml水，煮至冒泡浓稠。", "indicator": "汁水从稀变稠，用勺子舀起缓慢流下，颜色红亮，尝起来酸甜平衡（糖:醋≈1:0.9）。", "tip": "糖醋比例口诀：糖略多于醋。番茄酱先炒去生味，才有成熟的番茄香。" },
+      { "step": 6, "title": "裹汁出锅", "desc": "倒入炸好的肉条，快速翻炒让每条裹匀糖醋汁，立刻出锅。", "indicator": "每根肉条都裹上红亮的糖醋汁，整体有光泽感。要快，裹好就出锅，久了外皮会吸水变软。", "tip": "从裹汁到上桌要快，脆度损失最小。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Marinate the pork", "desc": "Cut tenderloin into 1cm-thick strips along the grain. Toss with salt, Shaoxing wine, and a pinch of cornstarch. Marinate for 10 minutes.", "indicator": "The strips should be slightly moist and tacky, still pink." , "tip": "Cutting along the grain keeps the strips intact during frying — across the grain and they'll fall apart." },
+      { "step": 2, "title": "Make the batter", "desc": "Mix cornstarch, flour, and egg yolk with about 30ml of water into a thick batter. Coat the pork strips evenly.", "indicator": "The right consistency: lift a strip and the batter should flow slowly — like honey — not drip immediately. Too thin and it won't hold; too thick and the crust will be dense and hard." },
+      { "step": 3, "title": "First fry — cook through", "desc": "Heat oil to about 160°C. Add strips one by one. Fry over medium heat for about 3 minutes until set. Remove.", "indicator": "The surfaces should be pale yellow and firm to the touch when lifted with chopsticks — not yet golden, and that's fine. Don't chase color at this stage.", "tip": "Add strips one by one to prevent sticking. Test oil temperature with a wooden chopstick: steady tiny bubbles around it = about 160°C." },
+      { "step": 4, "title": "Second fry — get crispy", "desc": "Raise oil temperature to 190°C. Add all the par-fried strips at once. Fry over high heat for 30–45 seconds until deep golden. Drain immediately.", "indicator": "Deep golden color, the bubbling around each strip has mostly stopped, and tapping a piece with chopsticks makes a faint crispy sound — the exterior has dehydrated fully.", "tip": "The second fry is what creates the crust. First fry: cook through. Second fry: rapidly dehydrate the exterior at high heat." },
+      { "step": 5, "title": "Make the sweet-sour sauce", "desc": "In a fresh pan, heat a little oil, fry the tomato paste briefly, then add sugar, vinegar, soy sauce, and 50ml water. Cook until it bubbles and thickens.", "indicator": "The sauce should flow slowly off a spoon (not drip freely) and be glossy red. Tasted: balanced sweet-sour, with the sweet edge slightly ahead (sugar:vinegar ≈ 1:0.9).", "tip": "Fry the tomato paste first to cook out its raw edge — this adds a rounder tomato flavor to the sauce." },
+      { "step": 6, "title": "Coat and serve", "desc": "Add the fried strips and toss quickly until every piece is coated. Plate immediately.", "indicator": "Each strip should be evenly glazed and glossy. Move fast — the longer the crispy coating sits in sauce, the more it absorbs moisture and softens.", "tip": "From sauce-coated to table: the faster the better." }
     ],
     "principles": [
-      {
-        "title": "两次炸法的原理",
-        "content": "第一次低温（160°C）炸：让肉条内部熟透，淀粉糊凝固成型，此时外皮含水量仍高，所以还不脆。第二次高温（190°C）炸：高温使外皮中剩余水分迅速蒸发，淀粉脱水后形成坚硬的玻璃态结构，就是「酥脆」的本质。一次炸高温，内部还没熟外皮就焦了；一次炸低温，外皮永远不够脆。"
-      },
-      {
-        "title": "糖醋味型公式",
-        "content": "糖醋味的核心比例：糖:醋 ≈ 1:0.85（糖略多）。醋提供酸感，糖提供甜感和光泽，番茄酱提供色泽和果香。加少量生抽「提鲜打底」，使味道不过于单一。这个味型与荔枝味的区别：荔枝味以醋为主（醋>糖），糖醋味以糖为主（糖>醋），前者偏酸，后者偏甜。"
-      }
+      { "title": "两次炸法的原理", "content": "第一次低温（160°C）炸：让肉条内部熟透，淀粉糊凝固成型，此时外皮含水量仍高，所以还不脆。第二次高温（190°C）炸：高温使外皮中剩余水分迅速蒸发，淀粉脱水后形成坚硬的玻璃态结构，就是「酥脆」的本质。一次炸高温，内部还没熟外皮就焦了；一次炸低温，外皮永远不够脆。" },
+      { "title": "糖醋味型公式", "content": "糖醋味的核心比例：糖:醋 ≈ 1:0.85（糖略多）。醋提供酸感，糖提供甜感和光泽，番茄酱提供色泽和果香。加少量生抽「提鲜打底」，使味道不过于单一。这个味型与荔枝味的区别：荔枝味以醋为主（醋>糖），糖醋味以糖为主（糖>醋），前者偏酸，后者偏甜。" }
+    ],
+    "principles_en": [
+      { "title": "The Double-Fry Method", "content": "First fry at 160°C: the interior cooks through and the batter sets, but the crust still has high moisture content — so it's not yet crunchy. Second fry at 190°C: the intense heat rapidly evaporates the remaining moisture in the crust, and the dehydrated starch forms a rigid, glass-like structure — which is what 'crispy' actually is. One fry at high temp: the outside burns before the inside is cooked. One fry at low temp: the crust never dehydrates enough to be crunchy." },
+      { "title": "The Sweet-Sour Flavor Formula", "content": "Core ratio: sugar:vinegar ≈ 1:0.85 (slightly more sugar). Vinegar provides acidity, sugar provides sweetness and gloss, tomato paste adds color and depth. A small amount of soy sauce adds umami so the flavor isn't one-dimensional. The difference between this and the 'lychee spice' style: lychee has vinegar > sugar (more sour); sweet-sour has sugar > vinegar (more sweet)." }
     ]
   },
   {
     "id": "yuxiang-rousi",
     "name": "鱼香肉丝",
+    "name_en": "Fish-Fragrant Shredded Pork",
     "category": "川菜",
+    "category_en": "Sichuan",
     "flavor": "鱼香味",
+    "flavor_en": "Yu Xiang (Fish-Fragrant)",
     "difficulty": 2,
     "time": 20,
     "serving": 3,
     "description": "没有鱼的「鱼香」——川菜最经典的复合味型，咸甜酸辣一气呵成。",
+    "description_en": "No fish involved — 'fish-fragrant' is Sichuan's most iconic complex flavor: salty, sweet, sour, and spicy in one dish.",
     "tags": ["辣", "下饭", "快手"],
+    "tags_en": ["Spicy", "Rice Pairing", "Quick"],
     "ingredients": [
-      { "name": "猪里脊肉", "amount": 200, "unit": "g", "note": "切细丝" },
-      { "name": "胡萝卜", "amount": 80, "unit": "g" },
-      { "name": "青椒", "amount": 60, "unit": "g" },
-      { "name": "木耳", "amount": 30, "unit": "g", "note": "干木耳提前泡发" },
-      { "name": "生姜", "amount": 10, "unit": "g" },
-      { "name": "大蒜", "amount": 15, "unit": "g" },
-      { "name": "大葱", "amount": 15, "unit": "g" }
+      { "name": "猪里脊肉", "name_en": "Pork tenderloin", "amount": 200, "unit": "g", "note": "切细丝", "note_en": "Cut into thin strips" },
+      { "name": "胡萝卜", "name_en": "Carrot", "amount": 80, "unit": "g" },
+      { "name": "青椒", "name_en": "Green pepper", "amount": 60, "unit": "g" },
+      { "name": "木耳", "name_en": "Dried wood ear mushrooms", "amount": 30, "unit": "g", "note": "干木耳提前泡发", "note_en": "Soak dried mushrooms beforehand" },
+      { "name": "生姜", "name_en": "Fresh ginger", "amount": 10, "unit": "g" },
+      { "name": "大蒜", "name_en": "Garlic", "amount": 15, "unit": "g" },
+      { "name": "大葱", "name_en": "Scallions", "amount": 15, "unit": "g" }
     ],
     "seasonings": [
-      { "name": "郫县豆瓣酱", "amount": 20, "unit": "g", "note": "剁细" },
-      { "name": "生抽", "amount": 15, "unit": "ml" },
-      { "name": "醋", "amount": 15, "unit": "ml" },
-      { "name": "白糖", "amount": 12, "unit": "g" },
-      { "name": "淀粉", "amount": 10, "unit": "g" },
-      { "name": "料酒", "amount": 10, "unit": "ml" },
-      { "name": "盐", "amount": 2, "unit": "g" },
-      { "name": "食用油", "amount": 30, "unit": "ml" }
+      { "name": "郫县豆瓣酱", "name_en": "Pixian doubanjiang", "amount": 20, "unit": "g", "note": "剁细", "note_en": "Mince finely" },
+      { "name": "生抽", "name_en": "Light soy sauce", "amount": 15, "unit": "ml" },
+      { "name": "醋", "name_en": "Chinese black vinegar", "amount": 15, "unit": "ml" },
+      { "name": "白糖", "name_en": "Sugar", "amount": 12, "unit": "g" },
+      { "name": "淀粉", "name_en": "Cornstarch", "amount": 10, "unit": "g" },
+      { "name": "料酒", "name_en": "Shaoxing wine", "amount": 10, "unit": "ml" },
+      { "name": "盐", "name_en": "Salt", "amount": 2, "unit": "g" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 30, "unit": "ml" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "肉丝腌制上浆",
-        "desc": "里脊肉顺纹切细丝（约0.3cm粗），加盐、料酒、淀粉5g抓匀，腌10分钟。",
-        "indicator": "肉丝表面有光泽的薄芡，不粘手但略有黏性。"
-      },
-      {
-        "step": 2,
-        "title": "调鱼香汁",
-        "desc": "碗中混合：生抽、醋、白糖、淀粉5g、清水15ml，搅匀备用。",
-        "indicator": "汁水呈棕色，尝一口是咸甜酸的复合味，就对了。",
-        "tip": "鱼香味公式：咸（豆瓣+酱油）、甜（糖）、酸（醋）、辣（豆瓣）比例相近，谁都不能太突出。"
-      },
-      {
-        "step": 3,
-        "title": "滑炒肉丝",
-        "desc": "锅热油多，大火下肉丝快速划散，变色后立刻捞出备用。",
-        "indicator": "肉丝从粉红变白，丝丝分明不粘连，出锅时还微带弹性。"
-      },
-      {
-        "step": 4,
-        "title": "炒豆瓣爆香",
-        "desc": "锅留底油，下剁细的豆瓣酱小火炒出红油，加姜蒜末葱花炒香。",
-        "indicator": "豆瓣酱油色变红亮，能看到油被「染」成橙红色，香辣气味浓郁。"
-      },
-      {
-        "step": 5,
-        "title": "炒配菜",
-        "desc": "转大火，下胡萝卜丝、青椒丝、木耳翻炒约1分钟。",
-        "indicator": "胡萝卜丝颜色变鲜亮，青椒变翠绿，木耳舒展。"
-      },
-      {
-        "step": 6,
-        "title": "合炒烹汁",
-        "desc": "倒回肉丝，沿锅边倒入鱼香汁，大火快速翻炒至汁水收浓。",
-        "indicator": "汤汁从稀变稠，挂在食材上发亮，整体颜色红润，酸甜香辣的气味扑鼻。"
-      }
+      { "step": 1, "title": "肉丝腌制上浆", "desc": "里脊肉顺纹切细丝（约0.3cm粗），加盐、料酒、淀粉5g抓匀，腌10分钟。", "indicator": "肉丝表面有光泽的薄芡，不粘手但略有黏性。" },
+      { "step": 2, "title": "调鱼香汁", "desc": "碗中混合：生抽、醋、白糖、淀粉5g、清水15ml，搅匀备用。", "indicator": "汁水呈棕色，尝一口是咸甜酸的复合味，就对了。", "tip": "鱼香味公式：咸（豆瓣+酱油）、甜（糖）、酸（醋）、辣（豆瓣）比例相近，谁都不能太突出。" },
+      { "step": 3, "title": "滑炒肉丝", "desc": "锅热油多，大火下肉丝快速划散，变色后立刻捞出备用。", "indicator": "肉丝从粉红变白，丝丝分明不粘连，出锅时还微带弹性。" },
+      { "step": 4, "title": "炒豆瓣爆香", "desc": "锅留底油，下剁细的豆瓣酱小火炒出红油，加姜蒜末葱花炒香。", "indicator": "豆瓣酱油色变红亮，能看到油被「染」成橙红色，香辣气味浓郁。" },
+      { "step": 5, "title": "炒配菜", "desc": "转大火，下胡萝卜丝、青椒丝、木耳翻炒约1分钟。", "indicator": "胡萝卜丝颜色变鲜亮，青椒变翠绿，木耳舒展。" },
+      { "step": 6, "title": "合炒烹汁", "desc": "倒回肉丝，沿锅边倒入鱼香汁，大火快速翻炒至汁水收浓。", "indicator": "汤汁从稀变稠，挂在食材上发亮，整体颜色红润，酸甜香辣的气味扑鼻。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Velvet the pork", "desc": "Cut tenderloin into thin strips about 0.3cm thick, along the grain. Toss with salt, Shaoxing wine, and 5g cornstarch. Marinate for 10 minutes.", "indicator": "The strips should have a thin, glossy starchy coat — tacky but not sticky to the hand." },
+      { "step": 2, "title": "Mix the yu xiang sauce", "desc": "Combine in a bowl: soy sauce, vinegar, sugar, 5g cornstarch, and 15ml water. Stir well.", "indicator": "The sauce should be a brownish color. Tasted: a layered hit of salty-sweet-sour simultaneously — no single note should dominate.", "tip": "The yu xiang formula: salty (doubanjiang + soy), sweet (sugar), sour (vinegar), spicy (doubanjiang) — all in roughly equal measure." },
+      { "step": 3, "title": "Velvet-fry the pork", "desc": "Heat wok with plenty of oil. Add pork strips over high heat and quickly stir to separate them. The moment they change color, remove and set aside.", "indicator": "Strips should go from pink to white, each separate — and they should still feel slightly springy when removed." },
+      { "step": 4, "title": "Fry the doubanjiang", "desc": "Leave a little oil in the wok, add the minced doubanjiang and stir over low heat until the oil turns red. Add minced ginger, garlic, and scallions and cook until fragrant.", "indicator": "The oil should turn a vivid orange-red — 'frying out the red oil.' Intense spicy aroma." },
+      { "step": 5, "title": "Stir-fry the vegetables", "desc": "Turn to high heat. Add carrot strips, green pepper strips, and wood ear mushrooms. Stir-fry for about 1 minute.", "indicator": "Carrot color brightens, green pepper turns vivid green, mushrooms open and soften." },
+      { "step": 6, "title": "Combine and add sauce", "desc": "Return the pork to the wok. Pour the sauce along the edge of the wok. Toss everything over high heat until the sauce reduces and clings to the ingredients.", "indicator": "The sauce goes from thin to glossy and coating. The overall color turns a warm reddish-brown with a sour-sweet aroma that hits you immediately." }
     ],
     "principles": [
-      {
-        "title": "鱼香味为什么叫「鱼香」",
-        "content": "鱼香味源自四川民间烹鱼的调味方式：用泡辣椒（或豆瓣）、姜、蒜、葱、糖、醋调出咸甜酸辣的复合味。后来厨师把这套调味用于其他食材，因为「带着烹鱼的香气」，故称鱼香。正宗鱼香味应用泡辣椒而非豆瓣酱，泡辣椒带有发酵的酸香，豆瓣酱则更咸辣，家常版用豆瓣酱是简化替代。"
-      },
-      {
-        "title": "为什么肉丝要先滑炒再捞出",
-        "content": "这个技法叫「滑炒」：大量热油+大火使肉丝迅速受热定型，表面的淀粉糊糊化形成保护层，锁住水分。若直接和配菜一起炒，肉丝受热不均，出水量大，会变成「煮」而不是「炒」，导致肉丝老柴且配菜出汤。"
-      }
+      { "title": "鱼香味为什么叫「鱼香」", "content": "鱼香味源自四川民间烹鱼的调味方式：用泡辣椒（或豆瓣）、姜、蒜、葱、糖、醋调出咸甜酸辣的复合味。后来厨师把这套调味用于其他食材，因为「带着烹鱼的香气」，故称鱼香。正宗鱼香味应用泡辣椒而非豆瓣酱，泡辣椒带有发酵的酸香，豆瓣酱则更咸辣，家常版用豆瓣酱是简化替代。" },
+      { "title": "为什么肉丝要先滑炒再捞出", "content": "这个技法叫「滑炒」：大量热油+大火使肉丝迅速受热定型，表面的淀粉糊糊化形成保护层，锁住水分。若直接和配菜一起炒，肉丝受热不均，出水量大，会变成「煮」而不是「炒」，导致肉丝老柴且配菜出汤。" }
+    ],
+    "principles_en": [
+      { "title": "Why Is It Called 'Fish-Fragrant' When There's No Fish?", "content": "The yu xiang flavor profile originates from the seasonings Sichuanese home cooks traditionally used when cooking fish: pickled chilies (or doubanjiang), ginger, garlic, scallions, sugar, and vinegar, combined into a complex salty-sweet-sour-spicy sauce. Cooks later applied this same seasoning to pork and other ingredients — and since the dish 'carried the fragrance of cooking fish,' the name stuck. Authentic yu xiang uses pickled chilies (which bring a fermented sourness); doubanjiang is a common home-cook substitution." },
+      { "title": "Why Velvet-Fry the Pork First, Then Remove It?", "content": "This technique — called 'huá chǎo' (滑炒) — uses plenty of hot oil and high heat to rapidly set the meat surface. The gelatinized starch coating locks in moisture. If you stir-fry the pork together with the vegetables, the heat is uneven, the meat releases water, and the result is essentially steamed — tough, dry pork strips sitting in a puddle of liquid." }
     ]
   },
   {
     "id": "cola-jichi",
     "name": "可乐鸡翅",
+    "name_en": "Cola Braised Chicken Wings",
     "category": "家常菜",
+    "category_en": "Home-style",
     "flavor": "咸甜",
+    "flavor_en": "Sweet & Savory",
     "difficulty": 1,
     "time": 30,
     "serving": 3,
     "description": "新手最友好的硬菜，可乐代替糖色，色泽红亮，口感软糯。",
+    "description_en": "The most beginner-friendly 'impressive' dish — Coca-Cola replaces the caramel step, delivering glossy, tender wings with minimal effort.",
     "tags": ["入门", "解馋", "快手"],
+    "tags_en": ["Beginner", "Comfort Food", "Quick"],
     "ingredients": [
-      { "name": "鸡翅中", "amount": 500, "unit": "g", "note": "约8-10个" },
-      { "name": "生姜", "amount": 15, "unit": "g" },
-      { "name": "大葱", "amount": 20, "unit": "g" }
+      { "name": "鸡翅中", "name_en": "Chicken wing sections", "amount": 500, "unit": "g", "note": "约8-10个", "note_en": "About 8–10 pieces" },
+      { "name": "生姜", "name_en": "Fresh ginger", "amount": 15, "unit": "g" },
+      { "name": "大葱", "name_en": "Scallions", "amount": 20, "unit": "g" }
     ],
     "seasonings": [
-      { "name": "可乐", "amount": 300, "unit": "ml", "note": "普通可乐，非零度" },
-      { "name": "生抽", "amount": 30, "unit": "ml" },
-      { "name": "老抽", "amount": 10, "unit": "ml", "note": "上色" },
-      { "name": "料酒", "amount": 20, "unit": "ml" },
-      { "name": "盐", "amount": 1, "unit": "g" },
-      { "name": "食用油", "amount": 15, "unit": "ml" }
+      { "name": "可乐", "name_en": "Regular Coca-Cola", "amount": 300, "unit": "ml", "note": "普通可乐，非零度", "note_en": "Full-sugar, not diet" },
+      { "name": "生抽", "name_en": "Light soy sauce", "amount": 30, "unit": "ml" },
+      { "name": "老抽", "name_en": "Dark soy sauce", "amount": 10, "unit": "ml", "note": "上色", "note_en": "For color" },
+      { "name": "料酒", "name_en": "Shaoxing wine", "amount": 20, "unit": "ml" },
+      { "name": "盐", "name_en": "Salt", "amount": 1, "unit": "g" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 15, "unit": "ml" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "处理鸡翅",
-        "desc": "鸡翅两面各划两刀（划至骨头），冷水下锅加料酒10ml焯水，煮开撇沫2分钟，捞出擦干。",
-        "indicator": "焯水后鸡翅表面变白，浮沫灰白色，捞出后表面无血水。擦干是关键，下锅不溅油。",
-        "tip": "划刀让料汁渗入，缩短入味时间。冷水焯去腥比热水效果好。"
-      },
-      {
-        "step": 2,
-        "title": "煎至金黄",
-        "desc": "锅热油，中火将鸡翅两面各煎约2分钟至金黄。",
-        "indicator": "鸡皮从白色变成金黄色，表面微焦收紧，轻轻一推能滑动说明不粘锅、可以翻面了。",
-        "tip": "煎这一步是为了让鸡皮焦香并锁住肉汁，省略这步直接焖的话皮软没香气。"
-      },
-      {
-        "step": 3,
-        "title": "加料焖煮",
-        "desc": "加入葱姜、生抽、老抽、料酒翻炒均匀，倒入可乐（刚好没过鸡翅），大火煮开转中小火焖15分钟。",
-        "indicator": "可乐沸腾后转小火，锅里汤汁微微冒泡、不剧烈翻腾。",
-        "tip": "可乐的糖分代替冰糖起到上色和增甜作用，碳酸在高温下迅速挥发，剩下的是糖和焦糖。"
-      },
-      {
-        "step": 4,
-        "title": "大火收汁",
-        "desc": "开盖转大火，不停翻动收汁，至汤汁浓稠裹住鸡翅。",
-        "indicator": "汤汁从稀变稠，裹在鸡翅上有明显光泽，锅底汤汁流动缓慢，每翻一下都能听到黏稠的声音。"
-      }
+      { "step": 1, "title": "处理鸡翅", "desc": "鸡翅两面各划两刀（划至骨头），冷水下锅加料酒10ml焯水，煮开撇沫2分钟，捞出擦干。", "indicator": "焯水后鸡翅表面变白，浮沫灰白色，捞出后表面无血水。擦干是关键，下锅不溅油。", "tip": "划刀让料汁渗入，缩短入味时间。冷水焯去腥比热水效果好。" },
+      { "step": 2, "title": "煎至金黄", "desc": "锅热油，中火将鸡翅两面各煎约2分钟至金黄。", "indicator": "鸡皮从白色变成金黄色，表面微焦收紧，轻轻一推能滑动说明不粘锅、可以翻面了。", "tip": "煎这一步是为了让鸡皮焦香并锁住肉汁，省略这步直接焖的话皮软没香气。" },
+      { "step": 3, "title": "加料焖煮", "desc": "加入葱姜、生抽、老抽、料酒翻炒均匀，倒入可乐（刚好没过鸡翅），大火煮开转中小火焖15分钟。", "indicator": "可乐沸腾后转小火，锅里汤汁微微冒泡、不剧烈翻腾。", "tip": "可乐的糖分代替冰糖起到上色和增甜作用，碳酸在高温下迅速挥发，剩下的是糖和焦糖。" },
+      { "step": 4, "title": "大火收汁", "desc": "开盖转大火，不停翻动收汁，至汤汁浓稠裹住鸡翅。", "indicator": "汤汁从稀变稠，裹在鸡翅上有明显光泽，锅底汤汁流动缓慢，每翻一下都能听到黏稠的声音。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Prep the wings", "desc": "Score each wing twice on each side, cutting down to the bone. Blanch in cold water with 10ml Shaoxing wine, bring to a boil, skim the foam for 2 minutes, drain, and pat dry.", "indicator": "Wings should be white after blanching, with grey-white foam in the water. Pat dry completely — moisture in the pan means oil splatter.", "tip": "Scoring the wings lets the braising liquid penetrate faster. Cold-water blanching draws out more impurities than hot-water blanching." },
+      { "step": 2, "title": "Pan-fry until golden", "desc": "Heat oil in the pan over medium heat. Fry each side of the wings for about 2 minutes until golden.", "indicator": "The skin goes from white to golden, slightly tightened and caramelized. When a wing slides easily when nudged — not sticking — it's ready to flip.", "tip": "This step builds aroma and sears in the juices. Skip it and you get soft, flavor-less skin." },
+      { "step": 3, "title": "Braise in cola", "desc": "Add scallions, ginger, soy sauces, and Shaoxing wine. Toss to coat. Pour in cola to just cover the wings. Bring to a boil, then reduce to medium-low heat and braise for 15 minutes.", "indicator": "After the cola boils, reduce to a gentle simmer — small bubbles, not rolling.", "tip": "The sugar in full-fat cola caramelizes during cooking, doing the same job as rock sugar. The carbonation evaporates completely at high heat, leaving only sweetness and color." },
+      { "step": 4, "title": "Reduce the glaze", "desc": "Uncover, turn to high heat, and stir constantly until the sauce reduces to a thick, clingy glaze.", "indicator": "The sauce turns glossy and coats the wings. The bottom of the pan shows slow-moving sauce, and you'll hear a thick, sticky sound as you stir." }
     ],
     "principles": [
-      {
-        "title": "可乐为什么能替代糖色",
-        "content": "普通可乐的含糖量约10g/100ml，300ml可乐含糖约30g。高温烹煮中，蔗糖分解为葡萄糖和果糖，在持续加热下发生焦糖化反应，生成棕色物质（焦糖素），赋予鸡翅红亮色泽。同时可乐中的磷酸能轻微软化肉质，使口感更嫩。碳酸气体在加热后迅速挥发，对最终味道影响极小。"
-      },
-      {
-        "title": "煎制后再焖的意义",
-        "content": "先煎再焖是「先干后湿」的两步法。煎：高温使鸡皮中的脂肪部分渲出，发生美拉德反应产生焦香味，表面形成轻微焦壳锁住肉汁。焖：小火慢慢让汤汁的味道渗入肌肉纤维，同时结缔组织中的胶原蛋白开始水解软化。两步缺一不可。"
-      }
+      { "title": "可乐为什么能替代糖色", "content": "普通可乐的含糖量约10g/100ml，300ml可乐含糖约30g。高温烹煮中，蔗糖分解为葡萄糖和果糖，在持续加热下发生焦糖化反应，生成棕色物质（焦糖素），赋予鸡翅红亮色泽。同时可乐中的磷酸能轻微软化肉质，使口感更嫩。碳酸气体在加热后迅速挥发，对最终味道影响极小。" },
+      { "title": "煎制后再焖的意义", "content": "先煎再焖是「先干后湿」的两步法。煎：高温使鸡皮中的脂肪部分渲出，发生美拉德反应产生焦香味，表面形成轻微焦壳锁住肉汁。焖：小火慢慢让汤汁的味道渗入肌肉纤维，同时结缔组织中的胶原蛋白开始水解软化。两步缺一不可。" }
+    ],
+    "principles_en": [
+      { "title": "Why Cola Works as a Sugar Substitute", "content": "Regular cola contains about 10g of sugar per 100ml — 300ml has roughly 30g total. During cooking, the sucrose breaks down into glucose and fructose, which caramelize under sustained heat and produce the deep reddish-brown color. Cola also contains phosphoric acid, which mildly tenderizes the meat. The carbonation evaporates rapidly at cooking temperatures and has no effect on the final flavor." },
+      { "title": "Why Sear First, Then Braise", "content": "Searing then braising is a 'dry then wet' two-step. Sear: high heat renders some fat from the skin, the Maillard reaction creates roasted, caramel-like aroma, and a light crust forms that seals in juices. Braise: low heat slowly drives the seasoned liquid into the muscle fibers while collagen in the connective tissue begins hydrolyzing to gelatin, making the meat tender. Neither step works without the other." }
     ]
   },
   {
     "id": "shuizhu-yu",
     "name": "水煮鱼",
+    "name_en": "Sichuan Boiled Fish",
     "category": "川菜",
+    "category_en": "Sichuan",
     "flavor": "麻辣鲜香",
+    "flavor_en": "Numbing-Spicy",
     "difficulty": 3,
     "time": 35,
     "serving": 4,
     "description": "鱼片嫩滑，汤底麻辣浓郁，最后浇热油激香，是川菜里豪迈的代表。",
+    "description_en": "Silky fish fillets in a fiery, numbing broth, finished with a dramatic pour of sizzling hot oil.",
     "tags": ["辣", "麻", "过瘾"],
+    "tags_en": ["Spicy", "Numbing", "Bold"],
     "ingredients": [
-      { "name": "草鱼/黑鱼", "amount": 700, "unit": "g", "note": "去骨取肉，黑鱼更嫩" },
-      { "name": "豆芽", "amount": 200, "unit": "g", "note": "垫底用" },
-      { "name": "干辣椒", "amount": 15, "unit": "根" },
-      { "name": "花椒", "amount": 3, "unit": "g" },
-      { "name": "大蒜", "amount": 20, "unit": "g" },
-      { "name": "生姜", "amount": 15, "unit": "g" },
-      { "name": "大葱", "amount": 20, "unit": "g" }
+      { "name": "草鱼/黑鱼", "name_en": "Grass carp or snakehead fish", "amount": 700, "unit": "g", "note": "去骨取肉，黑鱼更嫩", "note_en": "Filleted; snakehead has a more tender texture" },
+      { "name": "豆芽", "name_en": "Bean sprouts", "amount": 200, "unit": "g", "note": "垫底用", "note_en": "Lining the bowl" },
+      { "name": "干辣椒", "name_en": "Dried red chilies", "amount": 15, "unit": "根", "unit_en": "pcs" },
+      { "name": "花椒", "name_en": "Sichuan peppercorns", "amount": 3, "unit": "g" },
+      { "name": "大蒜", "name_en": "Garlic", "amount": 20, "unit": "g" },
+      { "name": "生姜", "name_en": "Fresh ginger", "amount": 15, "unit": "g" },
+      { "name": "大葱", "name_en": "Scallions", "amount": 20, "unit": "g" }
     ],
     "seasonings": [
-      { "name": "郫县豆瓣酱", "amount": 40, "unit": "g" },
-      { "name": "生抽", "amount": 15, "unit": "ml" },
-      { "name": "料酒", "amount": 20, "unit": "ml" },
-      { "name": "淀粉", "amount": 15, "unit": "g", "note": "鱼片上浆" },
-      { "name": "蛋清", "amount": 1, "unit": "个", "note": "鱼片上浆" },
-      { "name": "盐", "amount": 4, "unit": "g" },
-      { "name": "鸡精", "amount": 3, "unit": "g" },
-      { "name": "食用油", "amount": 80, "unit": "ml", "note": "其中50ml用于最后浇油" }
+      { "name": "郫县豆瓣酱", "name_en": "Pixian doubanjiang", "amount": 40, "unit": "g" },
+      { "name": "生抽", "name_en": "Light soy sauce", "amount": 15, "unit": "ml" },
+      { "name": "料酒", "name_en": "Shaoxing wine", "amount": 20, "unit": "ml" },
+      { "name": "淀粉", "name_en": "Cornstarch", "amount": 15, "unit": "g", "note": "鱼片上浆", "note_en": "For velveting the fish" },
+      { "name": "蛋清", "name_en": "Egg white", "amount": 1, "unit": "个", "unit_en": "pc", "note": "鱼片上浆", "note_en": "For velveting" },
+      { "name": "盐", "name_en": "Salt", "amount": 4, "unit": "g" },
+      { "name": "鸡精", "name_en": "MSG / chicken powder", "amount": 3, "unit": "g" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 80, "unit": "ml", "note": "其中50ml用于最后浇油", "note_en": "50ml reserved for the final oil pour" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "鱼片上浆",
-        "desc": "鱼肉片成约0.3cm薄片，加盐2g、料酒、蛋清、淀粉抓匀，腌15分钟。",
-        "indicator": "鱼片表面裹上白色薄浆，互相不粘连，摸起来滑而不黏。",
-        "tip": "片鱼时刀斜45°，顺着鱼骨方向，片越薄越嫩。蛋清+淀粉是上浆的核心，保住鱼片嫩度。"
-      },
-      {
-        "step": 2,
-        "title": "豆芽打底",
-        "desc": "豆芽焯水1分钟，捞出铺在大碗底部，撒少许盐。",
-        "indicator": "豆芽颜色变透明略软，但仍有脆感。"
-      },
-      {
-        "step": 3,
-        "title": "炒底料熬汤",
-        "desc": "锅热油，下豆瓣酱小火炒出红油，加姜蒜末炒香，加约600ml热水，放生抽、鸡精，大火煮开。",
-        "indicator": "汤底呈橙红色，表面有红油漂浮，尝一口底汤，咸鲜微辣有层次。"
-      },
-      {
-        "step": 4,
-        "title": "汆鱼片",
-        "desc": "汤底保持小沸，将鱼片逐片下入，用筷子轻拨，约1分钟至鱼片变白浮起。",
-        "indicator": "鱼片从透明变白，边缘微微卷起，用筷子轻夹能夹断但仍软嫩——不要煮太久，过熟就老了。",
-        "tip": "「汆」而非「煮」：保持汤底微沸而不剧烈滚，避免鱼片剧烈碰撞破碎变老。"
-      },
-      {
-        "step": 5,
-        "title": "浇热油激香",
-        "desc": "将鱼片连汤倒入铺好豆芽的大碗，表面铺干辣椒段和花椒，烧至冒烟的热油（约200°C）直接浇上去。",
-        "indicator": "热油浇上瞬间发出剧烈「滋啦」声，辣椒和花椒迅速变色，香气四溢——这一步完成后立刻上桌。",
-        "tip": "这是水煮鱼的灵魂步骤。热油必须足够烫，低于180°C激不出香气。"
-      }
+      { "step": 1, "title": "鱼片上浆", "desc": "鱼肉片成约0.3cm薄片，加盐2g、料酒、蛋清、淀粉抓匀，腌15分钟。", "indicator": "鱼片表面裹上白色薄浆，互相不粘连，摸起来滑而不黏。", "tip": "片鱼时刀斜45°，顺着鱼骨方向，片越薄越嫩。蛋清+淀粉是上浆的核心，保住鱼片嫩度。" },
+      { "step": 2, "title": "豆芽打底", "desc": "豆芽焯水1分钟，捞出铺在大碗底部，撒少许盐。", "indicator": "豆芽颜色变透明略软，但仍有脆感。" },
+      { "step": 3, "title": "炒底料熬汤", "desc": "锅热油，下豆瓣酱小火炒出红油，加姜蒜末炒香，加约600ml热水，放生抽、鸡精，大火煮开。", "indicator": "汤底呈橙红色，表面有红油漂浮，尝一口底汤，咸鲜微辣有层次。" },
+      { "step": 4, "title": "汆鱼片", "desc": "汤底保持小沸，将鱼片逐片下入，用筷子轻拨，约1分钟至鱼片变白浮起。", "indicator": "鱼片从透明变白，边缘微微卷起，用筷子轻夹能夹断但仍软嫩——不要煮太久，过熟就老了。", "tip": "「汆」而非「煮」：保持汤底微沸而不剧烈滚，避免鱼片剧烈碰撞破碎变老。" },
+      { "step": 5, "title": "浇热油激香", "desc": "将鱼片连汤倒入铺好豆芽的大碗，表面铺干辣椒段和花椒，烧至冒烟的热油（约200°C）直接浇上去。", "indicator": "热油浇上瞬间发出剧烈「滋啦」声，辣椒和花椒迅速变色，香气四溢——这一步完成后立刻上桌。", "tip": "这是水煮鱼的灵魂步骤。热油必须足够烫，低于180°C激不出香气。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Velvet the fish", "desc": "Slice the fish fillets into thin pieces about 0.3cm thick. Toss with 2g salt, Shaoxing wine, egg white, and cornstarch. Marinate for 15 minutes.", "indicator": "Slices should be coated in a smooth white film, not sticking to each other — slippery to the touch but not wet.", "tip": "Angle your knife at 45° and slice along the bone structure. Thinner slices cook more evenly and stay more tender. Egg white + cornstarch is the core of velveting." },
+      { "step": 2, "title": "Blanch and layer the bean sprouts", "desc": "Blanch bean sprouts for 1 minute, drain, and spread them across the bottom of a large deep bowl. Season lightly with salt.", "indicator": "Sprouts should be slightly translucent and softened but still retain a faint crunch." },
+      { "step": 3, "title": "Build the broth", "desc": "Heat oil in the wok, fry doubanjiang over low heat until the oil turns red. Add minced ginger and garlic, cook until fragrant. Pour in about 600ml of hot water, add soy sauce and MSG. Bring to a boil.", "indicator": "The broth should be an orange-red with a slick of red oil on the surface. Taste: savory, mildly spicy, layered." },
+      { "step": 4, "title": "Poach the fish", "desc": "Keep the broth at a gentle simmer — not a rolling boil. Slide fish slices in one by one. Nudge gently with chopsticks. After about 1 minute the slices will turn white and float.", "indicator": "Fish goes from translucent to opaque white, edges barely curling. Pinch a slice — it should break easily but still feel tender. Don't overcook — fish toughens fast.", "tip": "'Poach' not 'boil' — a vigorous boil batters the fragile slices and makes them tough." },
+      { "step": 5, "title": "Finish with sizzling oil", "desc": "Pour the fish and broth over the bean sprouts in the bowl. Scatter dried chilies and Sichuan peppercorns over the top. Heat 50ml oil in the wok until smoking (about 200°C), then pour it directly over the chilies.", "indicator": "The oil should hit the surface with a violent sizzle, the chilies instantly darken and release their aroma. Serve immediately after this step.", "tip": "This is the soul of the dish. The oil must be smoking hot — below 180°C and you won't get the aroma release." }
     ],
     "principles": [
-      {
-        "title": "鱼片嫩滑的秘密：碱性上浆",
-        "content": "专业厨房有时会在上浆时加少量小苏打（约0.5g/100g），碱性环境使鱼肉蛋白质结构松散，保水性大幅提升，口感更嫩滑。家常版用蛋清+淀粉也能达到不错效果：蛋清蛋白质在加热时形成保护层，淀粉糊化后进一步锁住水分。关键是「汆」的时间要短，蛋白质刚凝固即可。"
-      },
-      {
-        "title": "浇热油的物理和化学",
-        "content": "干辣椒和花椒中的辣椒素、花椒素都是脂溶性的，在常温下几乎不挥发。200°C的热油浇上去有两个作用：1）极高温度使挥发性芳香物质（萜烯类）瞬间气化，这是「香气四溢」的来源；2）美拉德反应在高温下瞬间发生，辣椒表面产生新的焦香物质。整个激香过程只需1-2秒，若油温不足，香气释放量只有高温的1/10以下。"
-      }
+      { "title": "鱼片嫩滑的秘密：碱性上浆", "content": "专业厨房有时会在上浆时加少量小苏打（约0.5g/100g），碱性环境使鱼肉蛋白质结构松散，保水性大幅提升，口感更嫩滑。家常版用蛋清+淀粉也能达到不错效果：蛋清蛋白质在加热时形成保护层，淀粉糊化后进一步锁住水分。关键是「汆」的时间要短，蛋白质刚凝固即可。" },
+      { "title": "浇热油的物理和化学", "content": "干辣椒和花椒中的辣椒素、花椒素都是脂溶性的，在常温下几乎不挥发。200°C的热油浇上去有两个作用：1）极高温度使挥发性芳香物质（萜烯类）瞬间气化，这是「香气四溢」的来源；2）美拉德反应在高温下瞬间发生，辣椒表面产生新的焦香物质。整个激香过程只需1-2秒，若油温不足，香气释放量只有高温的1/10以下。" }
+    ],
+    "principles_en": [
+      { "title": "The Secret to Silky Fish: Alkaline Velveting", "content": "Professional kitchens sometimes add a small amount of baking soda (about 0.5g per 100g of fish) to the marinade. An alkaline environment loosens the protein structure and dramatically improves water retention — resulting in an almost impossibly tender texture. The home version using egg white + cornstarch is quite effective: egg white proteins form a protective layer during cooking, and gelatinized cornstarch further locks in moisture. The key is to poach briefly — just until the proteins set." },
+      { "title": "The Physics and Chemistry of the Oil Pour", "content": "Capsaicin (from chilies) and hydroxy-alpha-sanshool (from Sichuan peppercorns) are fat-soluble and barely volatile at room temperature. Pouring 200°C oil over them achieves two things: 1) The extreme heat instantly vaporizes volatile aromatic compounds (terpenes), releasing the 'fragrance burst' in a single second. 2) Maillard reactions occur instantaneously on the chili surfaces, creating entirely new toasted-spicy aromatic compounds. At temperatures below 180°C, the aromatic yield is less than 1/10th of what you get at full heat." }
     ]
   },
   {
     "id": "danchaofan",
     "name": "蛋炒饭",
+    "name_en": "Egg Fried Rice",
     "category": "家常菜",
+    "category_en": "Home-style",
     "flavor": "咸鲜",
+    "flavor_en": "Savory",
     "difficulty": 1,
     "time": 10,
     "serving": 2,
     "description": "中餐里最考验火候的「简单菜」，粒粒分明是标准，做好了胜过山珍。",
+    "description_en": "The 'simple dish' that tests your heat control more than anything — done right, each grain stands alone.",
     "tags": ["快手", "入门", "主食"],
+    "tags_en": ["Quick", "Beginner", "Staple"],
     "ingredients": [
-      { "name": "隔夜米饭", "amount": 400, "unit": "g", "note": "冷藏过夜最佳，新鲜米饭太湿" },
-      { "name": "鸡蛋", "amount": 3, "unit": "个" },
-      { "name": "大葱", "amount": 20, "unit": "g", "note": "葱白和葱绿分开" }
+      { "name": "隔夜米饭", "name_en": "Day-old cooked rice", "amount": 400, "unit": "g", "note": "冷藏过夜最佳，新鲜米饭太湿", "note_en": "Refrigerated overnight is ideal — fresh rice is too moist" },
+      { "name": "鸡蛋", "name_en": "Eggs", "amount": 3, "unit": "个", "unit_en": "pcs" },
+      { "name": "大葱", "name_en": "Scallions", "amount": 20, "unit": "g", "note": "葱白和葱绿分开", "note_en": "Separate white and green parts" }
     ],
     "seasonings": [
-      { "name": "盐", "amount": 3, "unit": "g" },
-      { "name": "生抽", "amount": 8, "unit": "ml", "note": "可选，增色" },
-      { "name": "食用油", "amount": 30, "unit": "ml" }
+      { "name": "盐", "name_en": "Salt", "amount": 3, "unit": "g" },
+      { "name": "生抽", "name_en": "Light soy sauce", "amount": 8, "unit": "ml", "note": "可选，增色", "note_en": "Optional, adds color" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 30, "unit": "ml" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "打散米饭",
-        "desc": "冷藏米饭用手捏散，确保没有大块饭团。",
-        "indicator": "米粒基本分离，没有超过1cm的饭团，米粒表面干燥不黏手。",
-        "tip": "隔夜饭水分少、米粒独立，这是炒出「粒粒分明」的前提。新鲜热饭水分多，炒出来会结团。"
-      },
-      {
-        "step": 2,
-        "title": "蛋液包裹米饭（金包银法）",
-        "desc": "将打散的蛋液倒入米饭中，用手抓匀，让每粒米饭都裹上蛋液。",
-        "indicator": "米饭整体变成淡黄色，看不到白色裸露的米粒，蛋液均匀分布。",
-        "tip": "这是「金包银」技法的家庭简化版：每粒米都有蛋液包裹，下锅后蛋液在米粒周围凝固，形成一层壳，使米粒彼此分离、表面金黄。"
-      },
-      {
-        "step": 3,
-        "title": "大火热锅炒饭",
-        "desc": "铁锅烧至冒烟，下油，立刻倒入裹了蛋液的米饭，大火快速翻炒。",
-        "indicator": "米饭下锅瞬间听到剧烈「滋啦」声，约30秒后蛋液开始凝固，米粒颜色变金黄。用铲子按压翻炒，听到清脆的「沙沙」声而不是「噗噗」声，说明米粒已经干香分离。",
-        "tip": "锅温是关键，必须冒烟再下油再下饭。温度不够，米饭会黏锅、出水、结团。这就是家里炒不出餐厅蛋炒饭的根本原因：餐厅用大火猛攻。"
-      },
-      {
-        "step": 4,
-        "title": "调味出锅",
-        "desc": "饭炒散后，推开米饭，下葱白炒香，加盐（可沿锅边淋少许生抽），翻匀出锅，撒葱绿。",
-        "indicator": "整体米饭颜色金黄均匀，粒粒分明，铲子插入翻起来是「散」的而非「黏」的。"
-      }
+      { "step": 1, "title": "打散米饭", "desc": "冷藏米饭用手捏散，确保没有大块饭团。", "indicator": "米粒基本分离，没有超过1cm的饭团，米粒表面干燥不黏手。", "tip": "隔夜饭水分少、米粒独立，这是炒出「粒粒分明」的前提。新鲜热饭水分多，炒出来会结团。" },
+      { "step": 2, "title": "蛋液包裹米饭（金包银法）", "desc": "将打散的蛋液倒入米饭中，用手抓匀，让每粒米饭都裹上蛋液。", "indicator": "米饭整体变成淡黄色，看不到白色裸露的米粒，蛋液均匀分布。", "tip": "这是「金包银」技法的家庭简化版：每粒米都有蛋液包裹，下锅后蛋液在米粒周围凝固，形成一层壳，使米粒彼此分离、表面金黄。" },
+      { "step": 3, "title": "大火热锅炒饭", "desc": "铁锅烧至冒烟，下油，立刻倒入裹了蛋液的米饭，大火快速翻炒。", "indicator": "米饭下锅瞬间听到剧烈「滋啦」声，约30秒后蛋液开始凝固，米粒颜色变金黄。用铲子按压翻炒，听到清脆的「沙沙」声而不是「噗噗」声，说明米粒已经干香分离。", "tip": "锅温是关键，必须冒烟再下油再下饭。温度不够，米饭会黏锅、出水、结团。这就是家里炒不出餐厅蛋炒饭的根本原因：餐厅用大火猛攻。" },
+      { "step": 4, "title": "调味出锅", "desc": "饭炒散后，推开米饭，下葱白炒香，加盐（可沿锅边淋少许生抽），翻匀出锅，撒葱绿。", "indicator": "整体米饭颜色金黄均匀，粒粒分明，铲子插入翻起来是「散」的而非「黏」的。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Break up the rice", "desc": "Use your hands to break the cold rice into individual grains. Make sure there are no clumps larger than 1cm.", "indicator": "Grains should be mostly separated, dry to the touch, and not sticky.", "tip": "Day-old refrigerated rice has less moisture and separate grains — the essential starting point for 'each grain standing alone.' Fresh hot rice is too moist and will clump in the wok." },
+      { "step": 2, "title": "Coat rice in egg (Gold-Wraps-Silver)", "desc": "Pour the beaten eggs over the rice and mix by hand until every grain is coated in egg.", "indicator": "The rice should turn uniformly pale yellow — no white grains visible, egg evenly distributed.", "tip": "This home-kitchen technique is a simplified version of 'jin bao yin' (金包银): each grain wrapped in egg, which sets around the rice in the wok, creating a crispy yellow shell that keeps grains separate and golden." },
+      { "step": 3, "title": "Stir-fry over screaming heat", "desc": "Heat a wok (ideally carbon steel) until it smokes. Add oil, then immediately add the egg-coated rice. Stir-fry aggressively over high heat.", "indicator": "The rice should hit the pan with a violent sizzle. After about 30 seconds the egg sets and grains turn golden. Press the rice flat and lift — if you hear a crisp, sandy 'shasha' sound rather than a wet 'puff,' the grains are dry and separated.", "tip": "Wok temperature is everything. The pan must be smoking before oil, and oil must be hot before rice. Insufficient heat causes the rice to steam, release moisture, and clump. This is why home fried rice never tastes like restaurant fried rice: restaurant woks run at 3-5x the BTU of a home stove." },
+      { "step": 4, "title": "Season and plate", "desc": "Once the rice is loose and golden, push it to the side. Add the scallion whites and let sizzle. Season with salt (and a drizzle of soy sauce along the wok edge if using). Toss everything together, plate, and scatter the green scallion tops.", "indicator": "Uniform golden color, every grain separated. When you push your spatula through, the rice should cascade loose — not slide as a sticky mass." }
     ],
     "principles": [
-      {
-        "title": "为什么要用隔夜饭",
-        "content": "刚煮好的米饭中，淀粉处于「糊化」状态（淀粉颗粒吸水膨胀），米粒含水量高、黏性强，炒时会相互黏结。冷藏一夜后，糊化的淀粉发生「老化回生」：淀粉分子重新排列，水分部分蒸发，米粒变硬变干、互不粘连。这种状态才适合炒饭。"
-      },
-      {
-        "title": "大火的意义：锅气",
-        "content": "「锅气」（Wok Hei）是中餐炒菜的灵魂。高温铁锅（超过300°C）接触食材时，食材表面水分瞬间蒸发，同时发生剧烈的美拉德反应，产生几百种香味物质，其中包括只在极高温下才能生成的含氧杂环化合物（如呋喃类）。家用灶火力不足的补偿方法：小锅、少量、铁锅充分预热、分批炒。"
-      }
+      { "title": "为什么要用隔夜饭", "content": "刚煮好的米饭中，淀粉处于「糊化」状态（淀粉颗粒吸水膨胀），米粒含水量高、黏性强，炒时会相互黏结。冷藏一夜后，糊化的淀粉发生「老化回生」：淀粉分子重新排列，水分部分蒸发，米粒变硬变干、互不粘连。这种状态才适合炒饭。" },
+      { "title": "大火的意义：锅气", "content": "「锅气」（Wok Hei）是中餐炒菜的灵魂。高温铁锅（超过300°C）接触食材时，食材表面水分瞬间蒸发，同时发生剧烈的美拉德反应，产生几百种香味物质，其中包括只在极高温下才能生成的含氧杂环化合物（如呋喃类）。家用灶火力不足的补偿方法：小锅、少量、铁锅充分预热、分批炒。" }
+    ],
+    "principles_en": [
+      { "title": "Why Day-Old Rice Works Better", "content": "Freshly cooked rice has starch in a 'gelatinized' state — starch granules fully swollen with water, making each grain moist and sticky. Refrigerating overnight causes 'retrogradation': the starch molecules re-crystallize and reorganize, moisture partially evaporates, and the grains become firm, dry, and non-sticky. This is the physical state required for stir-fried rice." },
+      { "title": "Wok Hei: The Science of High Heat", "content": "Wok Hei (锅气) is the soul of Chinese stir-frying. When food hits a wok above 300°C, surface moisture instantly evaporates and Maillard reactions occur intensely, generating hundreds of aromatic compounds — including oxygen-containing heterocyclic molecules (like furans) that can only form at very high temperatures. Home stove workarounds: use a small carbon steel pan, cook in small batches, preheat the pan thoroughly, and work fast." }
     ]
   },
   {
     "id": "dijiao-chao-rousi",
     "name": "青椒炒肉丝",
+    "name_en": "Green Pepper and Pork Stir-Fry",
     "category": "家常菜",
+    "category_en": "Home-style",
     "flavor": "咸鲜微辣",
+    "flavor_en": "Savory & Mildly Spicy",
     "difficulty": 1,
     "time": 15,
     "serving": 2,
     "description": "最日常的家常菜，五分钟上桌，下饭一绝。",
+    "description_en": "The most everyday of Chinese home dishes — on the table in five minutes and perfect over rice.",
     "tags": ["快手", "入门", "下饭"],
+    "tags_en": ["Quick", "Beginner", "Rice Pairing"],
     "ingredients": [
-      { "name": "猪里脊肉", "amount": 200, "unit": "g" },
-      { "name": "青椒", "amount": 200, "unit": "g", "note": "约3个，偏辣或不辣均可" },
-      { "name": "大蒜", "amount": 10, "unit": "g" },
-      { "name": "生姜", "amount": 8, "unit": "g" }
+      { "name": "猪里脊肉", "name_en": "Pork tenderloin", "amount": 200, "unit": "g" },
+      { "name": "青椒", "name_en": "Green peppers", "amount": 200, "unit": "g", "note": "约3个，偏辣或不辣均可", "note_en": "About 3 peppers, spicy or mild" },
+      { "name": "大蒜", "name_en": "Garlic", "amount": 10, "unit": "g" },
+      { "name": "生姜", "name_en": "Fresh ginger", "amount": 8, "unit": "g" }
     ],
     "seasonings": [
-      { "name": "生抽", "amount": 15, "unit": "ml" },
-      { "name": "老抽", "amount": 5, "unit": "ml" },
-      { "name": "料酒", "amount": 10, "unit": "ml" },
-      { "name": "淀粉", "amount": 8, "unit": "g" },
-      { "name": "盐", "amount": 2, "unit": "g" },
-      { "name": "食用油", "amount": 25, "unit": "ml" }
+      { "name": "生抽", "name_en": "Light soy sauce", "amount": 15, "unit": "ml" },
+      { "name": "老抽", "name_en": "Dark soy sauce", "amount": 5, "unit": "ml" },
+      { "name": "料酒", "name_en": "Shaoxing wine", "amount": 10, "unit": "ml" },
+      { "name": "淀粉", "name_en": "Cornstarch", "amount": 8, "unit": "g" },
+      { "name": "盐", "name_en": "Salt", "amount": 2, "unit": "g" },
+      { "name": "食用油", "name_en": "Cooking oil", "amount": 25, "unit": "ml" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "肉丝腌制",
-        "desc": "里脊肉切细丝，加生抽5ml、料酒、淀粉抓匀腌10分钟。",
-        "indicator": "肉丝表面有白色薄浆，不互相粘连。"
-      },
-      {
-        "step": 2,
-        "title": "处理青椒",
-        "desc": "青椒去籽切细丝，与肉丝粗细相近。",
-        "tip": "青椒丝和肉丝粗细一致，炒出来更好看，熟度也均匀。"
-      },
-      {
-        "step": 3,
-        "title": "滑炒肉丝",
-        "desc": "锅热油多，大火下肉丝快速滑炒至变色，捞出备用。",
-        "indicator": "肉丝全部变白，丝丝分明，约30秒完成。"
-      },
-      {
-        "step": 4,
-        "title": "炒青椒合炒",
-        "desc": "锅留底油，下姜蒜末爆香，放青椒丝大火翻炒1分钟，倒回肉丝，加盐、生抽10ml、老抽翻炒均匀出锅。",
-        "indicator": "青椒从深绿变为鲜绿（不能变黄），质地软中带脆，肉丝裹上酱色有光泽。",
-        "tip": "青椒不能炒太久，颜色变暗黄说明过熟，维生素C大量流失，口感也变软烂。"
-      }
+      { "step": 1, "title": "肉丝腌制", "desc": "里脊肉切细丝，加生抽5ml、料酒、淀粉抓匀腌10分钟。", "indicator": "肉丝表面有白色薄浆，不互相粘连。" },
+      { "step": 2, "title": "处理青椒", "desc": "青椒去籽切细丝，与肉丝粗细相近。", "tip": "青椒丝和肉丝粗细一致，炒出来更好看，熟度也均匀。" },
+      { "step": 3, "title": "滑炒肉丝", "desc": "锅热油多，大火下肉丝快速滑炒至变色，捞出备用。", "indicator": "肉丝全部变白，丝丝分明，约30秒完成。" },
+      { "step": 4, "title": "炒青椒合炒", "desc": "锅留底油，下姜蒜末爆香，放青椒丝大火翻炒1分钟，倒回肉丝，加盐、生抽10ml、老抽翻炒均匀出锅。", "indicator": "青椒从深绿变为鲜绿（不能变黄），质地软中带脆，肉丝裹上酱色有光泽。", "tip": "青椒不能炒太久，颜色变暗黄说明过熟，维生素C大量流失，口感也变软烂。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Marinate the pork", "desc": "Cut tenderloin into thin strips. Toss with 5ml soy sauce, Shaoxing wine, and cornstarch. Marinate for 10 minutes.", "indicator": "Strips should have a thin white starchy coat and not stick together." },
+      { "step": 2, "title": "Prep the peppers", "desc": "Deseed the green peppers and cut into strips roughly the same width as the pork.", "tip": "Matching thickness means the pork and pepper cook evenly — and it looks more intentional." },
+      { "step": 3, "title": "Velvet-fry the pork", "desc": "Heat the wok with plenty of oil. Add pork over high heat and stir quickly until the strips change color. Remove and set aside.", "indicator": "All strips should be white and separated — about 30 seconds total." },
+      { "step": 4, "title": "Stir-fry peppers, combine", "desc": "Leave a little oil, add minced ginger and garlic until fragrant. Add pepper strips and stir-fry over high heat for 1 minute. Return the pork, add salt, 10ml soy sauce, and dark soy sauce. Toss and plate.", "indicator": "Peppers should be vivid green — not yellow-green. Texture should be soft with a slight crunch remaining. Pork strips should be coated in a glossy sauce.", "tip": "Don't overcook the peppers. Yellowing means overcooked — chlorophyll has broken down, vitamin C is largely lost, and the texture turns limp." }
     ],
     "principles": [
-      {
-        "title": "青椒炒多久合适",
-        "content": "青椒的绿色来自叶绿素。叶绿素在酸性或高温长时间加热下会分解，变成黄褐色的脱镁叶绿素。大火快炒1-2分钟，叶绿素来不及分解，青椒保持翠绿。同时，高温短时间加热能最大程度保留维生素C（维生素C在70°C以上开始分解，时间越长损失越多）。所以炒青椒：大火、快、断生即可。"
-      }
+      { "title": "青椒炒多久合适", "content": "青椒的绿色来自叶绿素。叶绿素在酸性或高温长时间加热下会分解，变成黄褐色的脱镁叶绿素。大火快炒1-2分钟，叶绿素来不及分解，青椒保持翠绿。同时，高温短时间加热能最大程度保留维生素C（维生素C在70°C以上开始分解，时间越长损失越多）。所以炒青椒：大火、快、断生即可。" }
+    ],
+    "principles_en": [
+      { "title": "How Long Should You Cook Green Peppers?", "content": "Green peppers get their color from chlorophyll. Under acidic conditions or prolonged heat, chlorophyll breaks down into pheophytin — an olive-brown compound. Stir-frying at high heat for just 1–2 minutes doesn't give chlorophyll time to degrade, so the peppers stay vivid green. At the same time, brief high-heat cooking preserves the most vitamin C (which begins breaking down above 70°C, with losses increasing the longer it's heated). Rule for green peppers: high heat, fast, stop the moment they're just tender." }
     ]
   },
   {
     "id": "qingzheng-luyu",
     "name": "清蒸鲈鱼",
+    "name_en": "Cantonese Steamed Sea Bass",
     "category": "粤菜",
+    "category_en": "Cantonese",
     "flavor": "鲜甜清淡",
+    "flavor_en": "Fresh & Delicate",
     "difficulty": 2,
     "time": 20,
     "serving": 3,
     "description": "粤菜经典，最大程度保留鱼的鲜甜，简单却对火候要求极高。",
+    "description_en": "A Cantonese classic — minimal seasoning, maximum freshness, with zero margin for error on timing.",
     "tags": ["清淡", "健康", "鲜"],
+    "tags_en": ["Light", "Healthy", "Fresh"],
     "ingredients": [
-      { "name": "鲈鱼", "amount": 600, "unit": "g", "note": "约1条，宰杀处理好" },
-      { "name": "生姜", "amount": 20, "unit": "g" },
-      { "name": "大葱", "amount": 30, "unit": "g" },
-      { "name": "香菜", "amount": 10, "unit": "g", "note": "可省略" },
-      { "name": "红椒", "amount": 15, "unit": "g", "note": "点缀用" }
+      { "name": "鲈鱼", "name_en": "Sea bass (whole)", "amount": 600, "unit": "g", "note": "约1条，宰杀处理好", "note_en": "About 1 fish, cleaned and gutted" },
+      { "name": "生姜", "name_en": "Fresh ginger", "amount": 20, "unit": "g" },
+      { "name": "大葱", "name_en": "Scallions", "amount": 30, "unit": "g" },
+      { "name": "香菜", "name_en": "Fresh cilantro", "amount": 10, "unit": "g", "note": "可省略", "note_en": "Optional" },
+      { "name": "红椒", "name_en": "Red chili (garnish)", "amount": 15, "unit": "g", "note": "点缀用", "note_en": "For color" }
     ],
     "seasonings": [
-      { "name": "蒸鱼豉油", "amount": 30, "unit": "ml", "note": "关键调料，不可替代" },
-      { "name": "料酒", "amount": 15, "unit": "ml" },
-      { "name": "盐", "amount": 2, "unit": "g" },
-      { "name": "花生油/猪油", "amount": 30, "unit": "ml", "note": "浇热油用" }
+      { "name": "蒸鱼豉油", "name_en": "Steamed fish soy sauce", "amount": 30, "unit": "ml", "note": "关键调料，不可替代", "note_en": "Key ingredient — not a regular soy sauce" },
+      { "name": "料酒", "name_en": "Shaoxing wine", "amount": 15, "unit": "ml" },
+      { "name": "盐", "name_en": "Salt", "amount": 2, "unit": "g" },
+      { "name": "花生油/猪油", "name_en": "Peanut oil or lard", "amount": 30, "unit": "ml", "note": "浇热油用", "note_en": "For the final hot oil pour" }
     ],
     "steps": [
-      {
-        "step": 1,
-        "title": "处理鱼",
-        "desc": "鱼身两侧各划2-3刀（斜刀，深至鱼骨），鱼腹和背部刀口处塞入姜片，鱼身抹料酒和少许盐，腌10分钟。",
-        "indicator": "划刀处能看到鱼肉，刀口间距约3cm，深度至骨头边缘。腌制后鱼身表面微湿。",
-        "tip": "划刀是让热蒸汽进入最厚处，确保受热均匀。鱼肚子里的黑膜一定要刮干净，是腥味主要来源。"
-      },
-      {
-        "step": 2,
-        "title": "架高蒸鱼",
-        "desc": "盘底铺葱段（或用筷子架高鱼），放上鱼，水开后上笼，大火蒸8分钟（600g鲈鱼）。",
-        "indicator": "时间到时，用筷子扎最厚处——能轻松穿透且无阻力，说明熟透。鱼眼变白突出，鱼皮微微裂开。",
-        "tip": "架高鱼很重要：让蒸汽在鱼身四周循环，而不是鱼泡在腥水里。蒸出的汤汁要倒掉。"
-      },
-      {
-        "step": 3,
-        "title": "淋汁浇油",
-        "desc": "蒸好后倒掉盘里的汤汁，铺上新葱丝、姜丝、红椒丝，浇蒸鱼豉油，最后烧热的油浇在葱姜丝上。",
-        "indicator": "热油浇上去瞬间发出「滋」的声音，葱姜丝被烫软，散发出浓郁香气。",
-        "tip": "倒掉蒸鱼汤汁是去腥的关键步骤，很多人忽略这一步导致腥味重。热油激香是粤菜的标志性技法。"
-      }
+      { "step": 1, "title": "处理鱼", "desc": "鱼身两侧各划2-3刀（斜刀，深至鱼骨），鱼腹和背部刀口处塞入姜片，鱼身抹料酒和少许盐，腌10分钟。", "indicator": "划刀处能看到鱼肉，刀口间距约3cm，深度至骨头边缘。腌制后鱼身表面微湿。", "tip": "划刀是让热蒸汽进入最厚处，确保受热均匀。鱼肚子里的黑膜一定要刮干净，是腥味主要来源。" },
+      { "step": 2, "title": "架高蒸鱼", "desc": "盘底铺葱段（或用筷子架高鱼），放上鱼，水开后上笼，大火蒸8分钟（600g鲈鱼）。", "indicator": "时间到时，用筷子扎最厚处——能轻松穿透且无阻力，说明熟透。鱼眼变白突出，鱼皮微微裂开。", "tip": "架高鱼很重要：让蒸汽在鱼身四周循环，而不是鱼泡在腥水里。蒸出的汤汁要倒掉。" },
+      { "step": 3, "title": "淋汁浇油", "desc": "蒸好后倒掉盘里的汤汁，铺上新葱丝、姜丝、红椒丝，浇蒸鱼豉油，最后烧热的油浇在葱姜丝上。", "indicator": "热油浇上去瞬间发出「滋」的声音，葱姜丝被烫软，散发出浓郁香气。", "tip": "倒掉蒸鱼汤汁是去腥的关键步骤，很多人忽略这一步导致腥味重。热油激香是粤菜的标志性技法。" }
+    ],
+    "steps_en": [
+      { "step": 1, "title": "Prep the fish", "desc": "Score 2–3 diagonal cuts on each side of the fish, cutting deep enough to reach the bone. Stuff ginger slices into the cuts and the cavity. Rub the fish with Shaoxing wine and a little salt. Marinate for 10 minutes.", "indicator": "Cuts should be about 3cm apart, reaching to the bone. After marinating, the surface should be slightly moist.", "tip": "Scoring ensures steam penetrates the thickest parts and everything cooks evenly. Scrape out the black membrane inside the cavity — it's the primary source of fishy smell." },
+      { "step": 2, "title": "Elevate and steam", "desc": "Line the plate with scallion stalks (or rest the fish on chopsticks) to lift it off the surface. Place the fish on top. Steam over vigorously boiling water for exactly 8 minutes (for a 600g fish).", "indicator": "When done, prod the thickest part with a chopstick — it should go in with zero resistance. The fish eyes should have turned white and are protruding; the skin may have slightly cracked.", "tip": "Elevating the fish is important — steam circulates all around the fish rather than the fish sitting in its own liquid. Discard all the steaming liquid afterward." },
+      { "step": 3, "title": "Sauce and finish with hot oil", "desc": "Pour off all the liquid from the steaming plate. Lay fresh julienned scallions, ginger, and red chili on top. Drizzle steamed fish soy sauce over everything. Heat the oil until smoking and immediately pour it over the scallion and ginger.", "indicator": "The hot oil should hit the garnish with an audible sizzle, softening the scallions and ginger instantly and releasing an intense aroma.", "tip": "Discarding the steaming liquid is the single most important deodorizing step — many people skip it and wonder why the fish tastes fishy. The hot oil pour is the defining technique of Cantonese steaming." }
     ],
     "principles": [
-      {
-        "title": "蒸鱼火候的本质",
-        "content": "鱼肉蛋白质在65°C开始凝固，超过75°C肌肉纤维收缩变柴变干。所以蒸鱼的目标是让鱼肉中心温度达到65-70°C后立刻停止加热。过火30秒都会明显影响口感。600g鲈鱼大火8分钟是经过验证的参数，鱼越大时间越长（每100g约加1.5分钟）。"
-      },
-      {
-        "title": "热油激香的原理",
-        "content": "葱和姜中含有挥发性硫化物（葱的辛辣味来源）和姜辣素，这些物质在常温下挥发缓慢。180-200°C的热油直接浇上去，瞬间高温使这些物质迅速气化，同时发生美拉德反应，在1-2秒内释放出在常温下需要数分钟才能释放的香气。这就是「一浇香气四溢」的原理。"
-      },
-      {
-        "title": "为什么要倒掉蒸鱼汤汁",
-        "content": "鱼在蒸制过程中，血水、腥味物质（三甲胺、鱼腥酸等）会溶入蒸出的汤汁中。这些物质在高温下虽然部分挥发，但大量残留在液体里。倒掉这些汤汁，再淋新鲜的蒸鱼豉油，就是「去腥留鲜」的关键操作。"
-      }
+      { "title": "蒸鱼火候的本质", "content": "鱼肉蛋白质在65°C开始凝固，超过75°C肌肉纤维收缩变柴变干。所以蒸鱼的目标是让鱼肉中心温度达到65-70°C后立刻停止加热。过火30秒都会明显影响口感。600g鲈鱼大火8分钟是经过验证的参数，鱼越大时间越长（每100g约加1.5分钟）。" },
+      { "title": "热油激香的原理", "content": "葱和姜中含有挥发性硫化物（葱的辛辣味来源）和姜辣素，这些物质在常温下挥发缓慢。180-200°C的热油直接浇上去，瞬间高温使这些物质迅速气化，同时发生美拉德反应，在1-2秒内释放出在常温下需要数分钟才能释放的香气。这就是「一浇香气四溢」的原理。" },
+      { "title": "为什么要倒掉蒸鱼汤汁", "content": "鱼在蒸制过程中，血水、腥味物质（三甲胺、鱼腥酸等）会溶入蒸出的汤汁中。这些物质在高温下虽然部分挥发，但大量残留在液体里。倒掉这些汤汁，再淋新鲜的蒸鱼豉油，就是「去腥留鲜」的关键操作。" }
+    ],
+    "principles_en": [
+      { "title": "The Precision of Steaming Fish", "content": "Fish proteins begin to set at 65°C and become dry and rubbery above 75°C. The goal is to bring the center of the thickest part to 65–70°C, then stop the heat immediately. Even 30 extra seconds noticeably degrades the texture. 8 minutes at full steam for a 600g sea bass is a tested parameter — scale up by about 1.5 minutes per 100g for larger fish." },
+      { "title": "The Hot Oil Pour: Why It Works", "content": "Scallions contain volatile sulfur compounds and ginger contains gingerols — both evaporate slowly at room temperature. Pouring 180–200°C oil directly onto them instantly vaporizes these aromatic compounds and triggers rapid Maillard reactions, releasing in 1–2 seconds what would take several minutes at room temperature. This is why 'one pour, fragrance everywhere' — it's a single-second burst of concentrated aroma chemistry." },
+      { "title": "Why Discard the Steaming Liquid", "content": "During steaming, blood, trimethylamine, and other fishy-smelling compounds leach into the liquid that collects on the plate. Although high temperature volatilizes some of these compounds, most remain dissolved in the liquid. Pouring it away and drizzling fresh steamed-fish soy sauce is the key operation for 'removing the fishiness while keeping the freshness.'" }
     ]
   }
 ]
